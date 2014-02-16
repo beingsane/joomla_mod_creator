@@ -1,0 +1,2332 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<FMPXMLRESULT xmlns="http://www.filemaker.com/fmpxmlresult">
+    <ERRORCODE>0</ERRORCODE>
+    <PRODUCT BUILD="06-18-2009" NAME="FileMaker" VERSION="ProAdvanced 10.0v3"/>
+    <DATABASE DATEFORMAT="M/d/yyyy" LAYOUT="" NAME="SBMAL-2007-MAIN-GM-new-cards-FINISHED.fp7" RECORDS="10731" TIMEFORMAT="h:mm:ss a"/>
+    <METADATA>
+        <FIELD EMPTYOK="YES" MAXREPEAT="1" NAME="Author Title Subjects" TYPE="TEXT"/>
+    </METADATA>
+    <RESULTSET FOUND="8303">
+        <ROW MODID="19" RECORDID="88170">
+            <COL>
+                <DATA>Miller, J. Dale. &quot;1,000 Spanish idioms.&quot; [ [MAIN] PC/4460/M55] [c.1]. 1. Spanish language -- Idioms, corrections, errors. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="20" RECORDID="65390">
+            <COL>
+                <DATA>Ross, William Wilson. &quot;10,000 miles by land and sea.&quot; [ [MAIN] F/595/R82] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. The West -- Description &amp; travel. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="74890">
+            <COL>
+                <DATA>Bernal, Ignacio. &quot;100 great masterpieces of the Mexican National Museum of Anthropology.&quot; [ [MAIN] [EXTRA OVERSIZE] F/1219.3/A7/B3913] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Indians of Mexico -- Art. 2. Indians of Central America -- Art. I. Reyes-Valerio, Constantino. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="71180">
+            <COL>
+                <DATA>Atkinson, Fred William, 1876-. &quot;100 years in the Pajaro Valley, from 1769 to 1869 ...&quot; [ [MAIN] F/868/S3/A8] [c.1]. [EDITH WEBB COLLECTION] 1. Pajaro River and Valley. 2. Santa Cruz County, Caliornia -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="92656">
+            <COL>
+                <DATA>Psuty, Norbert P. &quot;1000 selected references to the geography oceanography, geology, ecology and archaeology of coastal Peru and adjacent areas.&quot; [ [MAIN] [OVERSIZE] Z/1871/G46/P77] [c.1]. 1. Geography -- Peru -- Bibliography. I. Beckwith, Wendell. II. Craig, Alan K. III. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="88153">
+            <COL>
+                <DATA>Holt, Marion P. &quot;1001 pitfalls in Spanish.&quot; [ [MAIN] PC/4129/E5/H65] [c.1]. 1. Spanish language -- Text-books for foreign speakers -- English. 2. Spanish language -- Grammar. 3. Spanish language -- Errors of usage. I. Dueber, Julianne. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="56853">
+            <COL>
+                <DATA>San Francisco. St. Boniface Church. &quot;100th anniversary St. Boniface Parish, San Francisco, California, 1860-1960.&quot; [ [MAIN] [OVERSIZE] BX/4603/S3/S36] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="71679">
+            <COL>
+                <DATA>--. &quot;13 California towns; from the original drawings.&quot; [ [MAIN] [EXTRA OVERSIZE] F/869/A15/T34] [c.1]. 1. Cities and towns -- California -- Pictorial works. 2. California -- Pictorial works.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="71038">
+            <COL>
+                <DATA>Who&apos;s who in Los Angeles County, 1950-1951. &quot;1400 illustrated biographies of leading men and women in Los Angeles County.&quot; [ [MAIN] F/868/L8/W56] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="81257">
+            <COL>
+                <DATA>Blaut, James M. (James Morris). &quot;1492: the debate on colonialism, Eurocentrism, and history.&quot; [ [MAIN] HC/51/B64/1992] [c.1]. 1. Economic history. 2. Europe -- Economic conditions -- 16th century. 3. Europe -- Colonies -- America. 4. Capitalism -- Europe -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="62758">
+            <COL>
+                <DATA>Bernabeu Albert, Salvador. &quot;1892; el IV centenario del descubrimiento de America en España; coyuntura y conmemoraciones.&quot; [ [MAIN] E/119/S68/1987] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Columbus, Christopher -- Anniversaries, etc. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="72140">
+            <COL>
+                <DATA>Oakland Tribune. &quot;1938 year book. Oakland, California and adjacent communities.&quot; [ [MAIN] [OVERSIZE] F/869/O2/O28] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="20" RECORDID="56882">
+            <COL>
+                <DATA>--. &quot;1992 directory of Saint Barbara&apos;s Parish, Old Mission.&quot; [ [MAIN] BX/4603/S575/S35/1992] [c.1]. 1. Santa Barbara Mission -- Directories. I. Title: Saint Barbara&apos;s Parish.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="92520">
+            <COL>
+                <DATA>Swadesh, Frances Leon. &quot;20,000 years of history; a New Mexico bibliography. Compiled and annotated with an ethnohistorical introduction.&quot; [ [MAIN] Z/1315/S94] [c.1]. 1. New Mexico -- History -- Bibliography. 2. Indians of North America -- New Mexico -- Bibliography. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="74498">
+            <COL>
+                <DATA>Bernal, Ignacio. &quot;3000 years of art and life in Mexico as seen in the National Museum of Anthropology, Mexico City.&quot; [ [MAIN] F/1219/B5313] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Indians of Mexico -- Antiquities. I. Pina Chan, Roman. II. Camara Barbachano, Fernando. III. Title. </DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="73804">
+            <COL>
+                <DATA>Haldane, J. W. C. &quot;3800 miles across Canada.&quot; [ [MAIN] F/1015/B35] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Canada -- Description &amp; travel -- 1867-1950. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="72127">
+            <COL>
+                <DATA>Meyer, Samuel A. &quot;50 golden years; a history of the city of Newport Beach, 1906-1956.&quot; [ [MAIN] F/869/N59/M4] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Newport Beach, Calif. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="60139">
+            <COL>
+                <DATA>Josephy, Alvin M., 1915-. &quot;500 nations; an illustrated history of North American Indians.&quot; [ [MAIN] [OVERSIZE] E/77/J787/1994] [c.1]. 1. Indians of North America -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="60509">
+            <COL>
+                <DATA>Greenwood, Roberta S. &quot;9000 years of prehistory at Diablo Canyon, San Luis Obispo County, California. [With appendix] Fish remains, primarily Otoliths. From a coastal Indian midden (SLO-2) at Diablo Cove.&quot; [ [MAIN] E/78/C15/G73] [c.1]. 1. California -- Antiquities. 2. Indians of North America -- California. -- Antiquities. 3. Excavations (Archaeology) -- California. I. Fitch, John E. II. Title. III. Series.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="63981">
+            <COL>
+                <DATA>Diaz Vara Calderón, Gabriel, Bishop. d. 1676. &quot;A 17th century letter of Gabriel Diaz Vara Calderón, Bishop of Cuba, describing the Indian and Indian missions of Florida.&quot; [ [MAIN] F/314/D529] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="84455">
+            <COL>
+                <DATA>--. &quot;A Arquitectura militar na expansao portuguesa.&quot; [ [MAIN] [OVERSIZE] NA/490/A77/1994] [c.1]. 1. Military architecture -- Portugal -- Exhibitions. I. Comissao Para as Commemoracoes Dos Descobrimentos Portugueses.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="63868">
+            <COL>
+                <DATA>--. &quot;A Beautiful and fruitful place; select Rensselaerswijck seminar papers.&quot; [ [MAIN] F/122/B42] [c.1]. 1. New Netherland -- History, ca. 1600-16??. 2. New York (State) -- History -- Colonial period, ca. 1664-1775. I. Zeller, Nancy Anne McClure. II. Gehring, Charles.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="20" RECORDID="55744">
+            <COL>
+                <DATA>Weber, Francis J. &quot;A bibliographical gathering; the writings of Msgr. Francis J. Weber, 1953-1993.&quot; [ [MAIN] BX/1415/C2/W367] [c.1]. 1. Catholic Church -- California -- History -- Bibliography. 2. Weber, Francis J. -- Bible</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="92457">
+            <COL>
+                <DATA>Weber, Francis J. &quot;A bibliography of California bibliographies.&quot; [ [MAIN] Z/1261/W4] [c.1]. 1. Bibliography -- Bibliography -- California. I. Nunis, Doyce Blackman. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="69433">
+            <COL>
+                <DATA>Santos, Robert L. (Robert LeRoy). &quot;A bibliography of early California and neighboring territory through 1846; an era of exploration missions, presidios, ranchos and Indians, supplement one, 1990-2001.&quot; [ [MAIN] [OVERSIZE] F/864/S332] [c.1]. 1. Missions, Spanish -- California -- Bibliography. 2. California -- History -- To 1846 -- Bibliography. 3. California -- Politics &amp; government -- To 1846 -- Bibliography. 4. California -- Social life &amp; customs -- To 1846 -- Bibliography. 5. Baja Calif. (Mexico: Peninsula) -- History -- Bibliography. 6. Southwest, New -- History -- To 1848 -- Bibliography. 7. Mexico, North -- History -- Bibliography. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="92448">
+            <COL>
+                <DATA>Santos, Robert LeRoy. &quot;A bibliography of early California and neighboring territory through 1846: an era of exploration, missions, presidios, ranchos and Indians.&quot; [ [MAIN] [OVERSIZE] Z/1261/S35/1992] [c.1]. 1. California -- History -- To 1846 -- Bibliography. 2. California -- Politics &amp; government -- To 1846 -- Bibliography. 3. Missions, Spanish -- California -- Bibliography. 4. Baja California (Mexico) -- History -- Bibliography. 5. Southwest, New -- History -- To 1846. 6. Mexico, North -- History -- Bibliography. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="92538">
+            <COL>
+                <DATA>Raines, Cadiwell Walton, 1839-1906. &quot;A bibliography of Texas; being a descriptive list of books, pamphlets and documents relating to Texas in print and manuscript since 1536 ...&quot; [ [MAIN] Z/1339/R15] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Texas -- Bibliography. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="92727">
+            <COL>
+                <DATA>Dorsey, George Amos, 1868-1931. &quot;A bibliography of the anthropology of Peru.&quot; [ [MAIN] Z/5114/D76] [c.1]. 1. Ethnology -- Peru -- Bibliography. 2. Anthropology -- Bibliography. 3. Peru -- Antiquities -- Bibliography. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="92389">
+            <COL>
+                <DATA>Cowan, Robert Ernest, 1862-1942. &quot;A bibliography of the history of California and the Pacific West, 1510-1906. Together with the text of John W. Divinelle&apos;s Address on the acquisition of California, by the United States of America.&quot; [ [MAIN] Z/1261/C65/1952] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="92384">
+            <COL>
+                <DATA>Cowan, Robert Ernest, 1862-1942. &quot;A bibliography of the history of California, 1510-1930.&quot; [ [MAIN] Z/1261/C65/1933] [c.1]. 1. California -- History -- Bibliography. I. Cowan, Robert Grannis. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="92120">
+            <COL>
+                <DATA>Weber, Francis J. &quot;A bibliophilic Odyssey; the story of the Bibliotheca Montereyensis-Angelorum Dioeceseos.&quot; [ [MAIN] Z/675/C3/W4] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="69482">
+            <COL>
+                <DATA>Geiger, Maynard J., 1901-1977. &quot;A bicentennial compedium of Maynard J. Geiger&apos;s The life and times of Fr. Junípero Serra.&quot; [ [MAIN] F/864/S463/G44/1984] [c.1]. 1. Serra, Junípero, 1713-1784. I. Weber, Francis J. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="69487">
+            <COL>
+                <DATA>Geiger, Maynard J., 1901-1977. &quot;A bicentennial compendium of Maynard J. Geiger&apos;s The life and times of Fr. Junípero Serra. 3rd edition.&quot; [ [MAIN] F/864/S463/G44/1988] [c.1]. 1. Serra, Junípero, 1713-1784. I. Weber, Francis J. II. Geiger, Maynard J., 1901-1977. III. Title: The life and times of Fray Junipero Serra. IV. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="20" RECORDID="57161">
+            <COL>
+                <DATA>Weber, Francis J. &quot;A biographical sketch of Joseph Sadoc Alemany, Bishop of Monterey, 1850-1853.&quot; [ [MAIN] BX/4705/A487/W4] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="57248">
+            <COL>
+                <DATA>Weber, Francis J. &quot;A biographical sketch of Right Reverend Francisco García Diego y Moreno, first bishop of the Californias, 1785-1846.&quot; [ [MAIN] BX/4705/G244/W4] [c.1; c.2 (paper back edition)].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="68737">
+            <COL>
+                <DATA>Ide, Simeon, 1794-1889. &quot;A biographical sketch of the life of William B. Ide, with a minute and interesting account of one of the largest emigrating companies, 3000 miles over land, from the East to the Pacific Coast, and what is claimed as the most authentic and reliable account of &quot;the virtual conquest of California, in June, 1846, by the Bear Flag Party,&quot; as given by its leader, the late Hon. William Brown Ide.&quot; [ [MAIN] F/864/I23/1967] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="80129">
+            <COL>
+                <DATA>Synge, Margaret Bertha. &quot;A book of discovery; the history of the world&apos;s exploration, from the earliest times to the finding of the South Pole.&quot; [ [MAIN] G/80/S94] [c.1]. 1. Discoveries (in geography). I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="64507">
+            <COL>
+                <DATA>Hinojosa, Gilberto Miguel, 1942-. &quot;A borderlands town in transition, Laredo, 1755-1870. 1st ed.&quot; [ [MAIN] F/394/L2/H56] [c.1]. 1. Loredo (Texas) -- History. 2. Loredo (Texas)- Social conditions. 3. Mexican Americans -- Texas -- Loredo -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="89149">
+            <COL>
+                <DATA>Bartlett, William Chauncey, 1818-1907. &quot;A breeze from the Woods.&quot; [ [MAIN] PS/1074/B68] [c.1]. [LOUIS GRANT WILSON COLLECTION.] I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="89152">
+            <COL>
+                <DATA>Bartlett, William Chauncey, 1818-1907. &quot;A breeze from the woods. 2d edition.&quot; [ [MAIN] PS/1074/B68/B7/1883] [c.1]. [LOUIS GRANT WILSON COLLECTION.]</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="76521">
+            <COL>
+                <DATA>Robertson, Tomas Antonio. &quot;A brief history of Baja California and its missions.&quot; [ [MAIN] F/1246/R57] [c.1]. 1. Missions -- Baja California. 2. Baja California -- History. 3. Catholic Church in Baja California I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="66500">
+            <COL>
+                <DATA>Jenkins, Myra Ellen. &quot;A brief history of New Mexico.&quot; [ [MAIN] F/801/J47] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. New Mexico -- History. I. Schroeder, Albert H. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="76469">
+            <COL>
+                <DATA>Mathes, W. Michael. &quot;A brief history of the land of Calafia; the Californias, 1533-1795.&quot; [ [MAIN] F/1246/M379/1977] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Baja California (Mexico) -- History. 2. California -- History -- To 1846. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="72780">
+            <COL>
+                <DATA>Spaulding, Edward Seldon, 1891-. &quot;A brief story of Santa Barbara.&quot; [ [MAIN] F/869/S45/S76] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="68376">
+            <COL>
+                <DATA>Jackson, Sheldon G. (Sheldon Glenn), 1918-. &quot;A British ranchero in old California; the life and times of Henry Dalton and the Rancho Azusa.&quot; [ [MAIN] F/864/D22/J3] [c.1]. 1. Dalton, Henry, 1803-1884. 2. Ranchers- California -- Biography. 3. California -- History. 4. Land titles -- California. -- Los Angeles County. 5. Ranch life -- California -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="90438">
+            <COL>
+                <DATA>Munz, Philip Alexander, 1892-. &quot;A California flora.&quot; [ [MAIN] QK/149/M79] [c.1]. 1. Botany -- California. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="70922">
+            <COL>
+                <DATA>Boyd, William Harland, 1912-. &quot;A California middle border; the Kern River Country, 1772-1880.&quot; [ [MAIN] F/868/K3/B67] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="71143">
+            <COL>
+                <DATA>Meadows, Don. &quot;A California Paisano; the life of William McPherson.&quot; [ [MAIN] F/868/O6/M39] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="89421">
+            <COL>
+                <DATA>Truesdell, Amelia Woodward, 1839-1912. &quot;A California pilgrimage. 2d edition.&quot; [ [MAIN] PS/3539/R92/C3/1884] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="70282">
+            <COL>
+                <DATA>Vance, Robert H., d. 1876. &quot;A camera in the rold rush.&quot; [ [MAIN] F/865/V3] [c.1]. 1. California -- Description &amp; travel -- Views. 2. California -- Gold discoveries. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="92719">
+            <COL>
+                <DATA>Newberry Library, Chicago. &quot;A catalogue of printed materials relating to the Philippine Islands, 1519-1900; in the Newberry Library. Compiled by Doris Varner Welsh.&quot; [ [MAIN] Z/3299/N4] [c.1]. 1. Philippine Islands -- Bibliography -- Catalogs. I. Walsh, Doris Varner. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="24" RECORDID="92957">
+            <COL>
+                <DATA>Harvard University. Library. Widener Collection. &quot;A catalogue of the books and manuscripts of Robert Louis Stevenson in the library of the late Harry Elkins Widener.&quot; [ [MAIN] Z/8843/H33] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Stevenson, Robert Louis, 1850-1894. I. Rosenbach, Abraham Simon Wolf, 1876-. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="92340">
+            <COL>
+                <DATA>Newberry Library. &quot;A catalogue of the Everett D. Graff Collection of Western Americana.&quot; [ [MAIN] Z/1251/W5/N43] [c.1; index]. 1. Graff, Everett D. (Everett Dwight), 1885- 1964 -- Library. 2. West (United States) -- Bibliography -- Catalogs. I. Storm, Colton, 1908-. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="92360">
+            <COL>
+                <DATA>Yale University. Library. Yale Collection of Western Americana. &quot;A catalogue of the Frederick W. &amp; Carrie S. Beinecke Collection of Western Americana.&quot; [ [MAIN] Z/1251/W5/Y37] [c.1]. 1. West (United States) -- History -- Sources -- Bibliography. 2. Manuscripts -- West (United States) -- Bibliography. 3. Manuscripts -- West (United States) -- Catalogs. I. Beinecke, Frederick W. II. Beinecke, Carrie Sherry.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="55667">
+            <COL>
+                <DATA>Carroll, Mary Teresa Austin, Mother, d. 1909. &quot;A Catholic history of Alabama and the Floridas. Vol. 1.&quot; [ [MAIN] BX/1410/C3] [c.1]. 1. Catholic Church in the Southern States. I. Title. II. Member of the Order of Mercy.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="72789">
+            <COL>
+                <DATA>Tompkins, Walker A. &quot;A centennial history of Stearns Wharf.&quot; [ [MAIN] F/869/S45/T52] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="20" RECORDID="55882">
+            <COL>
+                <DATA>Weber, Francis J. &quot;A centennial history of the Tidings.&quot; [ [MAIN] BX/1418/L7/W43/1995] [c.1]. 1. Tidings -- History. 2. Catholic Church. Archdiocese of Los Angeles (California) -- History. 3. Catholic Church -- California -- Los Angeles Region -- History. 4. Los Angeles Region (California) -- Church history. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="79048">
+            <COL>
+                <DATA>Graham, Richard, 1934-. &quot;A century of Brazilian history since 1865; issues and problems.&quot; [ [MAIN] F/2535/G7] [c.1]. 1. Brazil -- History -- Addresses, essays, lectures. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="61410">
+            <COL>
+                <DATA>Jackson, Helen Maria (Fiske) Hunt, 1831-1885. &quot;A century of dishonor; a sketch of the United States government&apos;s dealings with some of the Indian tribes.&quot; [ [MAIN] E/93/J13] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="77336">
+            <COL>
+                <DATA>Bacigalupo, Marvyn Helen Polin, 1945-. &quot;A changing perspective: attitudes toward Creole Society in New Spain (1521-1610).&quot; [ [MAIN] F/1392/C7/B34] [c.1]. 1. Creoles -- Mexico -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="92882">
+            <COL>
+                <DATA>Library of Congress. Periodicals Division. &quot;A check list of American eighteenth century papers in the Library of Congress, compiled by John Van Ness Ingram.&quot; [ [MAIN] Z/6951/U47] [c.1]. 1. American newspapers -- Bibliography -- Catalogs. I. Ingram, John Van Ness, 1879-. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="92856">
+            <COL>
+                <DATA>Newberry Library. Chicago. Edward E. Ayer Collection. &quot;A check list of manuscripts in the Edward E. Ayer collection.&quot; [ [MAIN] Z/6621/N62/A92] [c.1]. 1. Manuscripts -- United States -- Catalogs. 2. Indians -- Bibliography -- Catalogs. I. Butler, Ruth Lapham, 1896-. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="88985">
+            <COL>
+                <DATA>Stevenson, Robert Louis, 1850-1894. &quot;A child&apos;s garden of verses and Underwoods.&quot; [ [MAIN] PR/5489/C5/1906] [c.1]. [LOUIS GRANT WILSON COLLECTION.] I. Title. II. Title: Underwoods. III. Harvey, Alexander, 1868-.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="67537">
+            <COL>
+                <DATA>Flower, Enola. &quot;A child&apos;s history of California.&quot; [ [MAIN] F/861/F58] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="67540">
+            <COL>
+                <DATA>Flower, Enola. &quot;A child&apos;s history of California.&quot; [ [MAIN] F/861/F58/1940] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="80579">
+            <COL>
+                <DATA>Burney, James, 1750-1821. &quot;A chronological history of North-eastern voyages of discovery; and of the early eastern navigations of the Russians.&quot; [ [MAIN] G/680/B9] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Northwest Passage. 2. Discoveries (Geography). I. Title. II. Title: Voyages to the N. East.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="61895">
+            <COL>
+                <DATA>Greenwood, Roberta S. &quot;A coastal Chumash village: excavations of Shisholop, Ventura County, California.&quot; [ [MAIN] E/99/C815/G73] [c.1]. 1. Chumashan Indians. 2. Ventura (California) -- Antiquities. I. Fitch, John E. II. Browne, R.O. III. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="71165">
+            <COL>
+                <DATA>Security Pacific National Bank. Research Division. &quot;A community guide to Orange County.&quot; [ [MAIN] F/868/O6/S43] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="82293">
+            <COL>
+                <DATA>Olalia, Alexander Ayson, 1913-. &quot;A comparative constitution of states and the Constitution of the Philippine Commonwealth.&quot; [ [MAIN] JC/325/O4] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="73782">
+            <COL>
+                <DATA>--. &quot;A compendium of the history of Canada and of the other British North American provinces for the use of the Christian Brothers&apos; schools, by J. F.N. D. (Brother A) ...&quot; [ [MAIN] F/1006/C66] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Canada -- History -- Chronology.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="20" RECORDID="65955">
+            <COL>
+                <DATA>--. &quot;A complete business directory of New Mexico and gazetteer of the territory for 1882.&quot; [ [MAIN] F/794.7/C73] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. New Mexico -- Directories. 2. New Mexico -- Description &amp; travel -- Gazetteers.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="63553">
+            <COL>
+                <DATA>Brooks, Nathan Covington, 1809-1898. &quot;A complete history of the Mexican war: its causes, conduct and consequences: comprising an account of the various military and naval operations from its commencement to the treaty of peace. Illustrated and explained by maps, plans of battles, views,and portraits.&quot; [ [MAIN] E/404/B88/1965] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="75906">
+            <COL>
+                <DATA>Bazant, Jan. &quot;A concise history of Mexico from Hidalgo to Cardenas, 1805-1940.&quot; [ [MAIN] F/1231.5/B38] [c.1]. 1. Mexico -- History -- 1910-. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="75902">
+            <COL>
+                <DATA>Bazant, Jan. &quot;A concise history of Mexico; from Hidalgo to Cardenas, 1805-1940.&quot; [ [MAIN] F/1231.5/B38] [c.1]. 1. Mexico -- History -- To 1810. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="65994">
+            <COL>
+                <DATA>Prince, Le Baron Bradford, 1840-1922. &quot;A concise history of New Mexico.&quot; [ [MAIN] F/796/P81] [c.1]. 1. New Mexico -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="59217">
+            <COL>
+                <DATA>Birmingham, David. &quot;A concise history of Portugal.&quot; [ [MAIN] DP/538/B57/1993] [c.1]. 1. Portugal -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="58415">
+            <COL>
+                <DATA>Kamen, Henry Arthur Francis. &quot;A concise history of Spain.&quot; [ [MAIN] DP/66/K3/1973] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Spain -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="63604">
+            <COL>
+                <DATA>Tyler, Daniel, 1816-1906. &quot;A concise history of the Mormon battalion in the Mexican War, 1846-1847.&quot; [ [MAIN] E/409.5/I72/T9/1969] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="87975">
+            <COL>
+                <DATA>Smith, William, 1815-1893. &quot;A copious and critical English-Latin dictionary by William Smith and Theophilus D. Hall; to which is added a dictionary of proper names.&quot; [ [MAIN] PA/2365/E5/S58/1871] [c.1]. 1. Latin language -- Dictionaries -- English. 2. English language -- Dictionaries -- Latin. I. Hall, Theophilus Dwight. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="87969">
+            <COL>
+                <DATA>Smith, William, 1815-1893. &quot;A copious and critical English-Latin dictionary by William Smith and Theophilus D. Hall. To which is added a dictionary of proper names.&quot; [ [MAIN] PA/2365/E5/S58]. 1. Latin language -- Dictionaries -- English. 2. English language -- Dictionaries -- Latin. I. Hall, Theophilus Dwight. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="87964">
+            <COL>
+                <DATA>Riddle, Joseph Esmond, 1804-1859. &quot;A copious and critical English-Latin lexicon, founded on the German-Latin dictionary of Charles Ernest Georges.&quot; [ [MAIN] PA/2365/E5/R5/1859] [c.1]. 1. English language -- Dictionaries -- Latin. 2. Latin language -- Dictionaries -- English. I. Georges, Karl Ernest, 1806-1853. II. Anthon, Charles, 1797-1867. III. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="69837">
+            <COL>
+                <DATA>Zamorano, Agustín Juan Vicente, 1798-1942. &quot;A copybook from the hand of Augustin V. Zamorano ...&quot; [ [MAIN] F/864/Z7262/A2] [c.1]. 1. Penmanship. I. Harding, George Laban, 1913-. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="58750">
+            <COL>
+                <DATA>Harris, Miriam Coles, 1834-1925. &quot;A corner of Spain.&quot; [ [MAIN] DP/295/H31] [c.1]. 1. Spain -- Description and travel. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="62273">
+            <COL>
+                <DATA>Verplanck, James De Lancey. &quot;A country of shepherds.&quot; [ [MAIN] E/99/N3/V6] [c.1]. 1. Navaho Indians. 2. Navaho Indian Reservation. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="82569">
+            <COL>
+                <DATA>Fernald, Charles, 1830-1892. &quot;A county judge in Arcady; selected private papers of Charles Fernald, pioneer California jurist. With an introduction and notes by Cameron Rogers.&quot; [ [MAIN] KF/368/F47/A4] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="63442">
+            <COL>
+                <DATA>Bolognani, Bonifacie. &quot;A courgeous people from the Dolomites; the immigrants from Trentino on U.S.A. trails.&quot; [ [MAIN] E/184/I8/B64] [c.1]. 1. Italians in.the United States. 2. Kino, Eusebio Francisco, 1644-1711. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="77437">
+            <COL>
+                <DATA>Picon-Solas, Mariano, 1901-1965. &quot;A cultural history of Spanish America from conquist to independence.&quot; [ [MAIN] F/1408.3/P5213] [c.1]. 1. Latin America -- Civilization. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="69893">
+            <COL>
+                <DATA>Browne, J. Ross (John Ross), 1821-1875. &quot;A dangerous journey, California, 1849.&quot; [ [MAIN] F/865/B895] [c.1]. 1. California -- Description and travel. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="69897">
+            <COL>
+                <DATA>Browne, J. Ross (John Ross), 1821-1875. &quot;A dangerous journey.&quot; [ [MAIN] F/865/B895/1972] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. California -- Description and travel. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="89535">
+            <COL>
+                <DATA>Breen, Andrew Edward, 1863-1938. &quot;A daughter of Mexico; a historical romance founded on documentary evidence.&quot; [ [MAIN] PZ/3/B7465/D3] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="82016">
+            <COL>
+                <DATA>Lewis, Oscar, 1914-. &quot;A death in the Sánchez family.&quot; [ [MAIN] HQ/562/L39/1970] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="69407">
+            <COL>
+                <DATA>Sessions, William Loren. &quot;A demographic study of the Franciscan Missions in California, 1810-1832.&quot; [ [MAIN] F/864/S55] [c.1]. 1. Franciscans -- California. 2. Franciscans -- Missions. 3. California -- History -- To 1846. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="68118">
+            <COL>
+                <DATA>Bandini, José. &quot;A description of California in 1828.&quot; [ [MAIN] F/864/B3] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="68347">
+            <COL>
+                <DATA>Crespi, Juan, 1721-1782. &quot;A description of distant roads; original journals of the first expedition into California, 1769-1770.&quot; [ [MAIN] [OVERSIZE] F/864/C917/2001] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Franciscans -- California -- History -- 18th century. 2. Portola&apos;s Expedition, California, 1769-1770. 3. California -- History -- To 1846. 4. Pacific Coast (California) -- Description &amp; exploration -- Spanish. 5. California -- Discovery &amp; exploration -- Spanish. I. Brown, Alan K. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="70955">
+            <COL>
+                <DATA>--. &quot;A description of Lake County, California, showing its advantages as a place of residence.&quot; [ [MAIN] F/868/L2/D37] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="64179">
+            <COL>
+                <DATA>Hennepin, Louis, 17th century. &quot;A description of Louisiana. Translated from the ed. of 1683, and compared with the nouvelle decouverte, the La Salle documents and other contemporaneous paper.&quot; [ [MAIN] F/352/H56] [c.1]. 1. Louisiana -- Description &amp; travel. 2. Mississippi River -- Discovery &amp; exploration. I. Shea, John Dawson Gilmary, 1824-1892, tr. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="74267">
+            <COL>
+                <DATA>O&apos;Crouley, Pedro Alonso, 1740-1817. &quot;A description of the kingdom of New Spain, 1774.&quot; [ [MAIN] [OVERSIZE] F/1211/O2513] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="87666">
+            <COL>
+                <DATA>Lister, Florence Cline. &quot;A descriptive dictionary for 500 years of Spanish-tradition ceramics [13th through 18th centuries].&quot; [ [MAIN] NK/3770/L58] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Ceramic industries -- Spain -- Dictionaries. 2. Ceramic industries -- Mexico -- Dictionaries. 3. Ceramics -- Dictionaries. I. Lister, Robert Hill, 1915-. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="88278">
+            <COL>
+                <DATA>Cobos, Ruben. &quot;A dictionary of New Mexico and Southern Colorado Spanish.&quot; [ [MAIN] PC/4829/N4/C6/1983] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Spanish language -- Provincialisms -- New Mexico -- Dictionaries. 2. Spanish language -- Provincialisms -- Colorado -- Dictionaries. 3. Spanish language -- Etymology -- Dictionaries. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="76138">
+            <COL>
+                <DATA>O&apos;Shaughnessy, Edith Louise (Cones) d. 1939. &quot;A diplomat&apos;s wife in Mexico; letters from the American embassy at Mexico City, covering the dramatic period between October 8th, 1913, and the breaking off of diplomatic relations on April 23rd, 1914, together with an account of the occupation of Vera Cruz.&quot; [ [MAIN] F/1234/O83] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="87585">
+            <COL>
+                <DATA>Hinckley, F. Lewis. &quot;A directory of antique furniture; the authentic classification of European and American designs for professionals &amp; connoisseurs.&quot; [ [MAIN] [OVERSIZE] NK/2260/H5] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Furniture. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="91591">
+            <COL>
+                <DATA>Peninou, Ernest. &quot;A directory of California wine growers and wine makers in 1860; with biographical and historical notes and index.&quot; [ [MAIN] TP/557/T35/P4] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="63575">
+            <COL>
+                <DATA>Griffin, John Strother, 1816-1898. &quot;A doctor comes to California; the diary of John S. Griffin, assistant surgeon with Kearny&apos;s dragoons, 1846-1847.&quot; [ [MAIN] E/405.2/G75] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="65222">
+            <COL>
+                <DATA>Wayman, John Hudson. &quot;A doctor on the California trail; the diary of Dr. John Hudson Wayman from Cambridge City, Indiana, to the gold fields in 1852.&quot; [ [MAIN] F/593/W38] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="78972">
+            <COL>
+                <DATA>Burns, E. Bradford. &quot;A documentary history of Brazil.&quot; [ [MAIN] F/2521/B88] [c.1]. 1. Brazil -- History -- Sources. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="63454">
+            <COL>
+                <DATA>Moquin, Wayne. &quot;A documentary history of the Mexican Americans.&quot; [ [MAIN] E/184/M5/M63/1971b] [c.1]. 1. Mexican Americans -- History. I. Van Doren, Charles Lincoln, 1926-. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="20" RECORDID="56394">
+            <COL>
+                <DATA>Huber, Raphael M., 1883-. &quot;A documented history of the Franciscan order, 1182-1517.&quot; [ [MAIN] BX/3606/H8] [c.1]. 1. Franciscans -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="90480">
+            <COL>
+                <DATA>Coyle, Jeanette. &quot;A field guide to the common and interesting plants of Baja California. 1st. edition.&quot; [ [MAIN] QK/211/C74] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="90624">
+            <COL>
+                <DATA>Peterson, Roger Tory, 1908-. &quot;A field guide to Western birds.&quot; [ [MAIN] QL/683/P4] [c.1]. 1. Birds -- The West. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="90669">
+            <COL>
+                <DATA>Lord, William Rogers, 1847-1916. &quot;A first book upon the birds of Oregon &amp; Washington. Revised &amp; enlarged edition.&quot; [ [MAIN] QL/684/O6/L8/1902] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Birds -- Oregon. 2. Birds -- Washington. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="90471">
+            <COL>
+                <DATA>Twisselmann, Ernest C. &quot;A flora of Kern County, California.&quot; [ [MAIN] QK/149/T9] [c.1]. 1. Botany -- California -- Kern County. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="90464">
+            <COL>
+                <DATA>Smith, Clifton F. &quot;A flora of Santa Barbara; an annotated catalogue of the native and naturalized plants of Santa Barbara, California, and vicinity.&quot; [ [MAIN] QK/149/S62] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Botany -- California -- Santa Barbara County. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="90468">
+            <COL>
+                <DATA>Smith, Clifton F. &quot;A flora of the Santa Barbara region, California. An annotated catalogue of the native and naturalized vascular plants of the Santa Barbara County mainland and nearby Channel Islands. &quot;. [ [MAIN] QK/149/S63] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="90431">
+            <COL>
+                <DATA>Jepson, Willis Linn, 1867-. &quot;A flora of western middle California.&quot; [ [MAIN] QK/149/J4] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Botany -- California. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="59579">
+            <COL>
+                <DATA>Stevenson, Robert Louis, 1850-1894. &quot;A footnote to history; eight years of trouble in Samoa.&quot; [ [MAIN] DU/817/S8] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Samoan Islands. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="89447">
+            <COL>
+                <DATA>Forrest, Charles David. &quot;A forest of Junipers [the life and death of Junipero Serra, and of others in the forest].&quot; [ [MAIN] [OVERSIZE] PS/3556/O7354/F67] [c.1]. 1. Serra, Junipero, 1713-1784 -- Drama. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="66038">
+            <COL>
+                <DATA>Athearn, Frederic J. &quot;A forgotten kingdom; the Spanish frontier in Colorado and New Mexico, 1540-1821.&quot; [ [MAIN] F/798/A833/1989] [c.1]. 1. Explorers -- New Mexico. 2. Explorers -- Colorado. 3. New Mexico -- Discovery &amp; exploration -- Spanish. 4. New Mexico -- History -- To 1848. 5. Colorado -- Discovery &amp; exploration -- Spanish. 6. Colorado -- History -- To 1876. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="69976">
+            <COL>
+                <DATA>Derbec, Étienne, 1817-1897. &quot;A French journalist in the California gold rush; the letters of Etienne Derbec&quot;. [ [MAIN] F/865/D45] [c.1]. 1. California -- Gold discoveries. 2. French -- California. I. Nasatir, Abraham Phineas, 1904-.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="70213">
+            <COL>
+                <DATA>Royce, Sarah (Bayliss). &quot;A frontier lady; recollections of the Gold Rush and early California.&quot; [ [MAIN] F/865/R86] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="67891">
+            <COL>
+                <DATA>Deakin, Edwin. &quot;A gallery of California mission paintings.&quot; [ [MAIN] F/862/M6/D4] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="84714">
+            <COL>
+                <DATA>Olwell, Carol, 1944-. &quot;A gift to the street. Commentary by Judith Lynch Waldhorn.&quot; [ [MAIN] [OVERSIZE] NA/738/S35/O48] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Architecture, Domestic -- California -- San Francisco. 2. Architecture, Victorian -- California -- San Francisco. I. Waldhorn, Judith Lynch. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="70018">
+            <COL>
+                <DATA>Glassock, Carl B (Carl Burgee), b. 1884. &quot;A golden highway; Scenes of history&apos;s greatest gold rush yesterday and today.&quot; [ [MAIN] F/865/G58/1941] [c.1]. 1. Frontier and pioneer life -- California. 2. California -- Description &amp; travel. 3. California -- Gold discoveries. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="79000">
+            <COL>
+                <DATA>Lopes Serra, Jaao, 17th cent. &quot;A governor and his image in baroque Brazil; the funeral eulogy of Afonso Furtado de Castro do Rio de Mendonca.&quot; [ [MAIN] F/2528/B37/L6613] [c.1]. 1. Barbacena, Afonso Furtado de Castro do Rio de Mendonca, viscon de, d. 1675. 2. Brazil -- Governors -- Biography. 3. Brazil -- History -- 17th century. I. Schwartz, Stuart B. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="81471">
+            <COL>
+                <DATA>Hainsworth, Reginald G (Reginald George), b. 1893. &quot;A graphic summary of world agriculture.&quot; [ [MAIN] HD/1421/H35] [c.1]. 1. Food supply. 2. Agriculture -- Economic aspects. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="68833">
+            <COL>
+                <DATA>Chapman, Charles Edward, 1880-1941. &quot;A great Franciscan in California, Fermin Francisco de Lasuen.&quot; [ [MAIN] F/864/L35/C45] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="67290">
+            <COL>
+                <DATA>Los Angeles County, California Museum, Los Angeles. History Division. &quot;A guide and catalogue of the California Hall at the Los Angeles County Museum; with a running historical text California: the dream of Paradise.&quot; [ [MAIN] F/858/L6] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="92910">
+            <COL>
+                <DATA>Ellis, John Tracy, 1905-. &quot;A guide to American Catholic history.&quot; [ [MAIN] Z/7778/U6/E38] [c.1]. 1. Catholic Church -- United States -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="92914">
+            <COL>
+                <DATA>Ellis, John Tracy, 1905-. &quot;A guide to American Catholic history. 2d edition, revised &amp; enlarged.&quot; [ [MAIN] Z/7778/U6/E38/1981] [c.1]. 1. Catholic Church -- United States -- History -- Bibliography. 2. United States -- Church history -- Bibliography. I. Trisco, Robert Frederich. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="84608">
+            <COL>
+                <DATA>Gebhard, David. &quot;A guide to architecture in Los Angeles &amp; Southern California.&quot; [ [MAIN] NA/735/L55/G4] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Architecture -- California -- Los Angeles -- Guidebooks. 2. Architecture -- California -- California, Southern -- Guidebooks. I. Winter, Robert. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="84515">
+            <COL>
+                <DATA>Gebhard, David. &quot;A guide to architecture in Southern California.&quot; [ [MAIN] NA/730/C2/G4] [c.1]. 1. Architecture -- California, Southern -- Directory. I. Winter, Robert. II. Title. III. Title: Architecture in Southern California.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="66771">
+            <COL>
+                <DATA>Morgan, Richard J., 1912-. &quot;A guide to historic missions and churches of the Arizona-Sonora borderlands.&quot; [ [MAIN] F/813/M67/1995] [c.1]. 1. Catholic Church -- Missions -- Arizona -- History. 2. Catholic Church -- Missions -- Mexico -- History. 3. Spanish mission buildings -- Arizona. 4. Spanish mission buildings -- Mexico -- Sonora (State). I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="70977">
+            <COL>
+                <DATA>--. &quot;A Guide to historic places in Los Angeles County. Prepared under the auspices of the History Team of the City of Los Angeles American Revolution Bicentennial Committee.&quot; [ [MAIN] F/868/L8/G83] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Historic sites -- California -- Los Angeles County -- Guidebooks. 2. Historic sites -- California -- Los Angeles -- Guidebooks. 3. Los Angeles (California) -- Guidebooks. 4. Los Angeles County (California) -- History, Local. 5. Los Angeles (California) -- History. I. Grenier, Judson.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="83527">
+            <COL>
+                <DATA>Fernández, Justino, 1904-. &quot;A guide to Mexican art from its beginnings to the present. Translated by Joshua C. Taylor.&quot; [ [MAIN] N/6550/F413/4] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Art, Mexican -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="92117">
+            <COL>
+                <DATA>Rio, Ignacio del. &quot;A guide to the Archivo Franciscano of the National Library of Mexico. With an introduction by Lino Gómez Canedo. [1.edition].&quot; [ [MAIN] Z/6611/F73/R56] [v.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="92770">
+            <COL>
+                <DATA>Smith, Robert Chester, 1912-. &quot;A guide to the art of Latin America.&quot; [ [MAIN] Z/5961/S7/S6] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Art -- Latin America -- Bibliography. I. Wilder, Elizabeth Wilder, 1908-. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="92406">
+            <COL>
+                <DATA>--. &quot;A guide to the history of California.&quot; [ [MAIN] Z/1261/G85/1989] [c.1]. 1. California -- History -- Sources -- Bibliography. 2. California -- Historiography. 3. Archives -- California -- Directories. 4. Historical libraries -- California -- Directories. I. Nunis, Doyce Blackman. II. Lothrop, Gloria Ricci.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="92525">
+            <COL>
+                <DATA>--. &quot;A Guide to the history of Texas.&quot; [ [MAIN] Z/1339/G84/1988] [c.1]. 1. Texas -- History -- Bibliography. 2. Texas -- Historiography. 3. Texas -- History -- Archival resources -- Texas -- Directories. I. Cummins, Light Townsend. II. Bailey, Alvin R.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="92849">
+            <COL>
+                <DATA>California. University. &quot;A guide to the manuscript collections of the Bancroft Library.&quot; [ [MAIN] Z/6621/C159] [v.1; v.2; v.2, c.2].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="92842">
+            <COL>
+                <DATA>California. University. Bancroft Library. &quot;A guide to the Mariano Guadalupe Vallejo documents para la historia de California, 1780-1785.&quot; [ [MAIN] Z/6621/C16/V35] [c.1]. 1. California -- History -- Sources -- Bibliography. 2. Manuscripts. California -- Catalogs. I. Wright, Doris Marion. II. Vallejo, Mariano Guadalupe, 1807-1890. III. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="71083">
+            <COL>
+                <DATA>Leadabrand, Russ. &quot;A guidebook to the Mojave Desert of California, including Death Valley, Joshua Tree National Monument and the Antelope Valley.&quot; [ [MAIN] F/868/M65/L4] [c.1]. 1. Mohave Desert, California. 2. Death Valley, California. 3. Joshua Tree National Monument. 4. Antelope Valley, California. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="71250">
+            <COL>
+                <DATA>Leadabrand, Ross. &quot;A guidebook to the San Bernardino Mountains of California, including Lake Arrowhead and Big Bear.&quot; [ [MAIN] F/868/S14/L4] [c.1]. 1. San Bernardino Mountains. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="63821">
+            <COL>
+                <DATA>Mott, Gertrude. &quot;A handbook for Californiacs; a key to meaning and pronunication of Spanish and Indian place names.&quot; [ [MAIN] F/F59/M92] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="85238">
+            <COL>
+                <DATA>Rosengarten, Albert, b. 1809. &quot;A handbook of architectural styles. A new edition.&quot; [ [MAIN] NA/200/R7/1898] [c.1]. 1. Architecture -- History. I. Sandars, William Collett. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="90518">
+            <COL>
+                <DATA>Eastwood, Alice. &quot;A handbook of the trees of California.&quot; [ [MAIN] QK/484/C2/E2] [c.1]. 1. Trees -- California. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="20" RECORDID="55276">
+            <COL>
+                <DATA>Wahlig, Charles J. &quot;A handbook on Guadalupe; for all Americans- a pledge of hope.&quot; [ [MAIN] BT/660/G8/W25] [c.1]. 1. Guadalupe, Nuestra Señora de -- Addresses, essays, lectures. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="66691">
+            <COL>
+                <DATA>--. &quot;A historical and biographical record of the territory of Arizona.&quot; [ [MAIN] [OVERSIZE] F/811/H68] [c.1]. 1. Arizona -- History. 2. Arizona -- Biography. I. McFarland &amp; Poole, Chicago, pub.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="61627">
+            <COL>
+                <DATA>Weber, Francis J. &quot;A historical sketch of pioneer Catholicism in the Californias. Missions and missionaries.&quot; [ [MAIN] E/98/M6/W4] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="76563">
+            <COL>
+                <DATA>Taylor, Alexander Smith. &quot;A historical summary of Baja California, from its discovery in 1532 to 1867.&quot; [ [MAIN] F/1246/T38] [c.1]. 1. Baja California -- History. I. Wheelock, Walt. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="68574">
+            <COL>
+                <DATA>Fages, Pedro. &quot;A historical, political and natural description of California.&quot; [ [MAIN] F/864/F165/1972] [c.1]. 1. California -- Description &amp; travel. 2. California -- History -- To 1846 -- Sources. 3. Indians of North America -- California. I. Priestly, Herbert Ingram, 1875-. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="68571">
+            <COL>
+                <DATA>Fages, Pedro. &quot;A historical, political, and natural description of California.&quot; [ [MAIN] F/864/F165] [c.1; c.2].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="83331">
+            <COL>
+                <DATA>Mendelowitz, Daniel Marcus. &quot;A history of American art.&quot; [ [MAIN] [OVERSIZE] N/6505/M4/1970] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Art, American -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="71689">
+            <COL>
+                <DATA>Pettitt, George A. &quot;A history of Berkeley.&quot; [ [MAIN] F/869/B5/P45] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Berkeley (California) -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="79012">
+            <COL>
+                <DATA>Burns, E. Bradford. &quot;A history of Brazil.&quot; [ [MAIN] F/2531/B89] [c.1]. 1. Brazil -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="20" RECORDID="79016">
+            <COL>
+                <DATA>Burns, E. Bradford. &quot;A history of Brazil. 2d edition.&quot; [ [MAIN] F/2531/B89/1980] [c.1]. 1. Brazil -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="88532">
+            <COL>
+                <DATA>Kemble, Edward Cleveland, 1828-1886. &quot;A history of California newspapers, 1846-1858.&quot; [ [MAIN] PN/4897/C2/K4/1962] [c.1]. 1. American newspapers -- California. 2. Printing -- History -- California. I. Bretnor, Helen Harding, ed. II. Sacramento Union. III. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="67501">
+            <COL>
+                <DATA>Cleland, Robert Glass, 1885-. &quot;A history of California; the American period.&quot; [ [MAIN] F/861/C62] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="68315">
+            <COL>
+                <DATA>Chapman, Charles Edward, 1880-. &quot;A history of California: the Spanish period.&quot; [ [MAIN] F/864/C465] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="80100">
+            <COL>
+                <DATA>Baker, John Norman Leonard. &quot;A history of geographical discovery and exploration. New edition, revised.&quot; [ [MAIN] G/80/B3/1967] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="77588">
+            <COL>
+                <DATA>Herring, Hubert Clinton, 1889-. &quot;A history of Latin America from the beginnings to the present.&quot; [ [MAIN] F/1410/H47/1968] [c.1]. 1. Latin America -- History. I. Herring, Helen Baldwin, joint author. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="77584">
+            <COL>
+                <DATA>Herring, Hubert Clinton, 1889-. &quot;A history of Latin America from the beginnings to the present.&quot; [ [MAIN] F/1410/H47] [c.1]. 1. Latin America -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="83263">
+            <COL>
+                <DATA>Castedo, Leopoldo. &quot;A history of Latin American art and architecture from Pre-Columbian times to the present.&quot; [ [MAIN] N/6502/C3713] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Art -- Latin America -- History. 2. Architecture -- Latin America -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="76474">
+            <COL>
+                <DATA>Martinez, Pablo L. &quot;A history of Lower California (the only complete and reliable one) 1st English edition.&quot; [ [MAIN] F/1246/M3513] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="75423">
+            <COL>
+                <DATA>Parkes, Henry Bamford, 1904-. &quot;A history of Mexico. 3d edition revised &amp; enlarged.&quot; [ [MAIN] F/1226/P27/1960] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="75426">
+            <COL>
+                <DATA>Parkes, Henry Bamford, 1904-. &quot;A history of Mexico. 3rd edition, newly revised.&quot; [ [MAIN] F/1226/P27/1969] [c.1]. 1. Mexico -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="75420">
+            <COL>
+                <DATA>Parkes, Henry Bamford, 1904-. &quot;A history of Mexico. Revised &amp; enlarged.&quot; [ [MAIN] F/1226/P27/1950] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="79067">
+            <COL>
+                <DATA>Bello, José Maria, 1880-. &quot;A history of modern Brazil, 1889-1964.&quot; [ [MAIN] F/2537/B4413] [c.1]. 1. Brazil -- History -- 1889-. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="73399">
+            <COL>
+                <DATA>Gray, William Henry,&apos;1810-1880. &quot;A history of Oregon, 1792-1949.&quot; [ [MAIN] F/880/G782] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Oregon -- History -- To Oregon -- History -- To 1859. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="69771">
+            <COL>
+                <DATA>Weber, Francis J. &quot;A history of San Buenaventura Mission.&quot; [ [MAIN] F/864/W424] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. San Buenaventura Mission -- History. 2. Franciscans -- California -- History. 3. Indians of North America -- Missions. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="58401">
+            <COL>
+                <DATA>Payne, Stanley G. &quot;A history of Spain and Portugal.&quot; [ [MAIN] DP/66/F382] [v.1; v.2]. 1. Spain -- History. 2. Portugal -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="58397">
+            <COL>
+                <DATA>Altamira y Crevea, Rafael, 1866-. &quot;A history of Spain, from the beginnings to the present day.&quot; [ [MAIN] DP/66/A672] [c.1]. 1. Spain -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="58448">
+            <COL>
+                <DATA>Chapman, Charles Edward, 1880-1941. &quot;A history of Spain; founded on the Historia de España y de civilización Española of Rafael Altamira.&quot; [ [MAIN] DP/68/C4] [c.1]. 1. Spain -- History. 2. Spain -- Civilization. I. Altamira y Crevea, Rafael, 1866-Historia de España. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="91666">
+            <COL>
+                <DATA>Lavin, James D. &quot;A history of Spanish firearms.&quot; [ [MAIN] TS/535/L35] [c.1]. 1. Firearms, Spanish. 2. Firearm industry and trade -- Spain. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="72884">
+            <COL>
+                <DATA>Tinkham, George Henry, 1849-. &quot;A history of Stockton; from its organization up to the present time; including a sketch of San Joaquin County ...&quot; [ [MAIN] F/869/S8/T5] [c.1]. 1. Stockton, California -- History. 2. San Joaquin County, California -- Description &amp; travel. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="64240">
+            <COL>
+                <DATA>Pennybacker, Anna J Hardwicke, 1861-1938. &quot;A history of Texas for schools, also for general reading and for teachers preparing themselves for examinations. Revised edition.&quot; [ [MAIN] F/386/P42] [c.1]. 1. Texas -- History. I. Texas. Constitution. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="64250">
+            <COL>
+                <DATA>Thrall, Homer S., d. 1894. &quot;A history of Texas, from the earliest settlements to the year 1885; with an appendix containing the constitution of the state of Texas, adopted November, 1875, and the amendments of 1883, for use in schools, and for general readers.&quot; [ [MAIN] F/386/T53] [c.1]. 1. Texas -- History. I. Texas. Constitution. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="60267">
+            <COL>
+                <DATA>Gladwin, Harold Sterling, 1883-. &quot;A history of the ancient Southwest.&quot; [ [MAIN] E/78/A7/G42] [c.1]. 1. Indians of North America -- Southwest, New. 2. Southwest, New -- Antiquities. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="55891">
+            <COL>
+                <DATA>Weber, Francis J. &quot;A history of the Archdiocese of Los Angeles and its precursor jurisdictions in Southern California, 1840-2007.&quot; [ [MAIN] [OVERSIZE] BX/1418/L8/W4/2006] [c.1]. 1. Catholic Church. Archdiocese of Los Angeles (California). I. Lees, Hermine. II. Wittenburg, Joanne. III. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="59275">
+            <COL>
+                <DATA>Guill, James H., 1924-. &quot;A history of the Azores Islands. 1st ed.&quot; [ [MAIN] DP/702/A87/G85] [c.1]. 1. Azores -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="67698">
+            <COL>
+                <DATA>Rush, Philip Scott, 1884-. &quot;A history of the California&apos;s. [1st edition].&quot; [ [MAIN] F/861/R93] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="81856">
+            <COL>
+                <DATA>Willard, Charles Dwight, 1860-1914. &quot;A history of the Chamber of Commerce of Los Angeles, California, from its foundation, September, 1888 to the year, 1900.&quot; [ [MAIN] HF/296/L87/W9] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="20" RECORDID="55087">
+            <COL>
+                <DATA>Watters, Mary, 1896. &quot;A history of the Church in Venezuela, 1810-1930.&quot; [ [MAIN] BR/730/W3] [c.1]. 1. Venezuela -- Church history. 2. Catholic Church -- Venezuela. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="72296">
+            <COL>
+                <DATA>Hittell, John Shertzer, 1825-1901. &quot;A history of the city of San Francisco. and incidentally of the state of California.&quot; [ [MAIN] F/869/S3/H7] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="72408">
+            <COL>
+                <DATA>Larson, Coleen Handforth. &quot;A history of the Hollister adobe. With an introductory essay on the Chumash of Chorro Valley.&quot; [ [MAIN] F/869/S18/L37] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="20" RECORDID="54928">
+            <COL>
+                <DATA>Debo, Angie, 1890-. &quot;A history of the Indians of the United States.&quot; [ [MAIN] B/77/D34/1979] [c.1]. 1. Indians of North America -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="60101">
+            <COL>
+                <DATA>Debo, Angie, 1890-. &quot;A history of the Indians of the United States. [11th printing].&quot; [ [MAIN] E/77/D34/1989] [c.1]. 1. Indians of North America -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="62634">
+            <COL>
+                <DATA>Irving, Washington, 1783-1859. &quot;A history of the life and voyages of Christopher Columbus. 1st ed.&quot; [ [MAIN] E/111/I7/1828] [v.1; v.2; v.3; v.4].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="91901">
+            <COL>
+                <DATA>Turhollow, Anthony F. &quot;A history of the Los Angeles District. U.S, Army Corps of Engineers, 1898-1965.&quot; [ [MAIN] UG/23/T87] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="55012">
+            <COL>
+                <DATA>Roth, Cecil, 1899-1970. &quot;History of the Marranos.&quot; [ [MAIN] BM/190/R6] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="90720">
+            <COL>
+                <DATA>Kress, George Henry, 1874-. &quot;A history of the medical profession of Southern California. 2d edition.&quot; [ [MAIN] R/171/K7] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="72040">
+            <COL>
+                <DATA>Horne, Kibbey M. &quot;A history of the Presidio of Monterey, 1770 to 1970.&quot; [ [MAIN] F/869/M7/H67] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="71259">
+            <COL>
+                <DATA>Brackett, Robert W. &quot;A history of the ranchos of San Diego County, California [the Spanish, Mexican and American occupation of San Diego County and the story of the ownership of the land grants therein.&quot; [ [MAIN] F/868/S15/B7] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="92146">
+            <COL>
+                <DATA>Hoskin, Beryl, 1911-. &quot;A history of the Santa Clara Mission Library.&quot; [ [MAIN] Z/733/S318/H6] [c.1]. 1. Santa Clara Mission -- Library. I. University of Santa Clara. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="60974">
+            <COL>
+                <DATA>Bandelier, Adolph Francis Alphonse, 1840-1914. &quot;A history of the Southwest; a study of the civilization and conversion of the Indians in Southwestern United States and Northwestern Mexico from the earliest times to 1700&quot;. [ [MAIN] E/78/S7/B24] [v.1; v.1,; supp.]. [NORMAN NEUERBURG COLLECTION] 1. Indians of North America -- Southwest, New -- History. 2. Indians of North America -- Southwest, New -- Art. I. Burrus, Erne J. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="92026">
+            <COL>
+                <DATA>Lence, Karen V. &quot;A history of the Western books exhibition: if they&apos;ve got to flap, let them flap splendidly.&quot; [ [MAIN] Z/209/W45/L45] [c.1]. 1. Western, Books Exhibition -- History. I. Rounce and Coffin Club. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="64203">
+            <COL>
+                <DATA>Marshall, Thomas Maitland,. 1876-. &quot;A history of the western boundary of the Louisiana Purchase, 1819-1841.&quot; [ [MAIN] F/353/M36] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="78855">
+            <COL>
+                <DATA>Moron, Guillermo. &quot;A history of Venezuela.&quot; [ [MAIN] F/2321/M653] [c.1]. 1. Venezuela -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="91578">
+            <COL>
+                <DATA>Pinney, Thomas. &quot;A history of wine in America, from the beginnings to Prohibition.&quot; [ [MAIN] TP/557/P56/1989] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Vine and wine making -- United States -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="59681">
+            <COL>
+                <DATA>Fewkes , Jesse Walter, 1850-1930. &quot;A journal of American ethnology and archaeology.&quot; [ [MAIN] E/51/F43] [v.2]. 1. Pueblo Indians. 2. Zuni Indians. 3. Hopi Indians. 4. Hemenway Southwestern Archaeological Expedition, 1886-1894 I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="67095">
+            <COL>
+                <DATA>Campa Cos, Miguel de la. &quot;A journal of explorations northward along the coast from Monterey in the year 1775.&quot; [ [MAIN] [OVERSIZE] F/851.5/C36/1964] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="63587">
+            <COL>
+                <DATA>Robinson, Jacob S. &quot;A journal of the Santa Fe expedition under Colonel Doniphan.&quot; [ [MAIN] E/405.2/R662] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="73890">
+            <COL>
+                <DATA>Harmon, Daniel Williams, 1778-1845. &quot;A journal of voyages and travels in the interior of North America ...&quot; [ [MAIN] F/1060.7/H28/1922] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Northwest, Canadian -- Description &amp; travel. 2. Indians of North America -- Canada. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="65020">
+            <COL>
+                <DATA>Casler, Melyer, ca. 1820-1862. &quot;A journal; giving the incidents of a journey to California in the summer of 1859, by the overland route.&quot; [ [MAIN] F/593/C38/1969] [c.1]. 1. West (United States) -- Description &amp; travel -- 1848-1860. 2. Overland journeys to the Pacific. 3. California -- Description &amp; travel -- 1848-1869. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="64445">
+            <COL>
+                <DATA>Olmstead, Frederick Law, 1822-1903. &quot;A journey through Texas; or, A saddletrip on the Southwestern frontier; with a statistical appendix.&quot; [ [MAIN] F/391/O51] [c.1]. 1. Texas -- Description &amp; travel. 2. Slavery in the United States -- Texas. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="70219">
+            <COL>
+                <DATA>Smith, William C. S. &quot;A journey to California in 1849.&quot; [ [MAIN] F/865/S7/1984] [c.1]. 1. California -- Description &amp; travel -- 1848-1869. 2. California -- Gold discoveries. 3. Overland journeys to the Pacific. 4. Mexico -- Description &amp; travel. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="64842">
+            <COL>
+                <DATA>Bidwell, John, 1819-1900. &quot;A journey to California; with observations about the country by John Bidwell; a day-by-day record of the journey from May 18, 1841, to November 6, 1841.&quot; [ [MAIN] [OVERSIZE] F/592/B55] [c.1]. [EDITH WEBB COLLECTION] 1. Overland journeys to the Pacific. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="68777">
+            <COL>
+                <DATA>Kemble, Edward Cleveland, 1828-1886. &quot;A Kemble reader; stories of California, 1846-1848.&quot; [ [MAIN] F/864/K34] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="70945">
+            <COL>
+                <DATA>Street, Richard Steven. &quot;A Kern County diary; the forgotten photographs of Carleton E. Watkins, 1881-1888.&quot; [ [MAIN] F/868/K3/S77] [`]. 1. Watkins, Carleton Emmons, 1829-1916. 2. Photographers -- California -- Kern County -- Exhibitions. 3. Kern County (California) -- Description &amp; travel -- Views. I. Kern County Museum. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="70376">
+            <COL>
+                <DATA>Evans, Albert S. &quot;A la California; sketch of life in the golden state.&quot; [ [MAIN] F/866/E7] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="77912">
+            <COL>
+                <DATA>Quintanilla, Luis, 1900-. &quot;A Latin American speaks.&quot; [ [MAIN] F/1418/Q5] [c.1]. 1. America -- Civilization. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="90741">
+            <COL>
+                <DATA>Weber, Francis J. &quot;A legacy of healing; the story of Catholic health care in the Archdiocese of Los Angeles.&quot; [ [MAIN] RA/975/C37/W43/2003] [c.1]. 1. Catholic hospitals. 2. Medical care -- Catholic Church -- Archdiocese of Los Angeles -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="89093">
+            <COL>
+                <DATA>Walker, Franklin Dickerson, 1900-. &quot;A literary history of Southern California.&quot; [ [MAIN] PS/283/C2/W3] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="73276">
+            <COL>
+                <DATA>Saunders, Charles Francis, 1859-. &quot;A little book of California missions.&quot; [ [MAIN] F/870/M6/S3] [c.1; c.2].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="65741">
+            <COL>
+                <DATA>Jones, George Wharton, 1858-1923. &quot;A little journey to some strange places and peoples in our Southwestern land (New Mexico and Arizona) For home and school intermediate and upper grades.&quot; [ [MAIN] F/786/J27] [c.1]. 1. Southwest, New -- Description and travel. 2. Indians of North America -- Southwest, New. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="89541">
+            <COL>
+                <DATA>Browne, Alice Harriman, 1861-1925. &quot;A man of two countries. Chapter headings by C.M. Dowling.&quot; [ [MAIN] PZ/3/B8202/M3] [c.1]. [EDITH WEBB COLLECTION] I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="20" RECORDID="56236">
+            <COL>
+                <DATA>Serra, Junípero, 1713-1784. &quot;A Marian novena attributed to Fray Junípero Serra.&quot; [ [MAIN] BX/2160/S42/1988] [c.1]. 1. Mary, Virgin -- Meditations. I. Weber, Francis J. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="71461">
+            <COL>
+                <DATA>Storke, Yda (Addis). &quot;A memorial and biographical history of the counties of Santa Barbara, San Luis Obispo and Ventura, California ...&quot; [ [MAIN] F/868/S23/S8] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="87673">
+            <COL>
+                <DATA>Kaplan, Flora S. &quot;A Mexican folk pottery tradition; cognition and style in material culture in the Valley of Pueblo. [Revised and enlarged edition].&quot; [ [MAIN] [OVERSIZE] NK/4031/K3/1994] [c.1]. 1. Pottery, Mexican. 2. Folk art -- Mexico. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="89573">
+            <COL>
+                <DATA>Duggan, Janie Prichard. &quot;A Mexican ranch; or, Beauty for ashes; a prize story.&quot; [ [MAIN] PZ/3/D879/M4] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="71612">
+            <COL>
+                <DATA>Mitchell, Annie Rosalind, 1906-. &quot;A modern history of Tulare County.&quot; [ [MAIN] [OVERSIZE] F/868/T8/M58] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="89155">
+            <COL>
+                <DATA>Bigney, T.O. &quot;A month with the muses. Colorado tales and legends of the earlier days in verse and some fugitive rhyming lines.&quot; [ [MAIN] PS/1098/B75/C6/1875] [c.1]. [LOUIS GRANT WILSON COLLECTION.] I. Title. II. Title: Colorado tales and legends of the eärlier days.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="57801">
+            <COL>
+                <DATA>Gordon, Arthur Ernest, 1902-. &quot;A mysterious Latin inscription in California.&quot; [ [MAIN] CN/510/G63] [c.1]. 1. Inscriptions, Latin. 2. Epitaphs. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="69705">
+            <COL>
+                <DATA>Venegas, Miguel, 1680-1764. &quot;A natural and civil history of California.&quot; [ [MAIN] F/864/V53/1966] [v.1; v.2]. [NORMAN NEUERBURG COLLECTION] 1. Jesuits -- California -- Early works to 1800-Facsims. 2. Jesuits -- Mexico -- Baja California -- Early works to 1800 -- Facsims. 3. Natural history -- California -- Early works to 1800. 4. Natural history -- Mexico -- Baja California -- Early works to 1800. 5. Indians of North America -- California -- Early works to 1800. 6. Indians of Mexico -- Early works to 1800. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="90494">
+            <COL>
+                <DATA>Peattie, Donald Culross, 1898-. &quot;A natural history of western trees.&quot; [ [MAIN] QK/481/P42] [c.1]. 1. Trees -- The West. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="68411">
+            <COL>
+                <DATA>Duvall, Marius, 1818-1891. &quot;A Navy surgeon in California, 1846-1847; the journal of Marius Duvall.&quot; [ [MAIN] F/864/D96] [c.1]. 1. California -- History -- 1846-1850 -- Sources. 2. United States Navy -- History -- Sources. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="82579">
+            <COL>
+                <DATA>White, Joseph M., 1781-1839. &quot;A new collection of laws, charts and governments of Great Britain, France and Spain, relating to the concessions of land in their respective colonies, together with the laws of Mexico and Texas on the same subject ...&quot; [ [MAIN] KF/574/A3/1839] [v.1; v.2]. 1. Land tenure -- United States -- Law. 2. Spain -- Colonies -- Land of tenure. 3. Law -- Spain. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="77773">
+            <COL>
+                <DATA>Skowronek, Russell Kent. &quot;A new Europe in the new world; hierarchy, continuity and change in the Spanish sixteenth century colonization of Hispaniola and Florida.&quot; [ [MAIN] F/1411/S65] [c.1]. 1. Spain -- Colonies -- America -- Administration. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="80811">
+            <COL>
+                <DATA>Silver, Timothy, 1955-. &quot;A new face on the countryside; Indians, colonists, and slaves in South Atlantic forests, 1500-1800.&quot; [ [MAIN] GF/504/S67/S55/1990] [c.1]. 1. Men -- Influence on nature -- South Atlantic States -- History. 2. Forest ecology -- South Atlantic States. 3. Indians of North America -- South Atlantic States -- History. 4. South Atlantic States -- History. 5. Slaves -- South Atlantic States. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="64236">
+            <COL>
+                <DATA>Pennybacker, Anna J. Hardwicke, 1861-1938. &quot;A new history of Texas for schools; also for general reading and for teachers preparing themselves for examinations.&quot; [ [MAIN] F/386/P41] [c.1]. 1. Texas -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="89697">
+            <COL>
+                <DATA>Lummis, Charles Fletcher, 1859-1928. &quot;A New Mexico David, and other sketches of the Southwest.&quot; [ [MAIN] PZ/3/L97/N48] [c.1]. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="62117">
+            <COL>
+                <DATA>Boscana, Geronimo, 1776-1831. &quot;A new original version of Boscana&apos;s historical account of the San Juan Capistrano Indians of Southern California.&quot; [ [MAIN] E/99/J8/B6] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="74248">
+            <COL>
+                <DATA>Gage, Thomas d. 1656. &quot;A new survey of the West Indies, 1648, The English American.&quot; [ [MAIN] F/1211/G164] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="68202">
+            <COL>
+                <DATA>Bolton, Herbert Eugene, 1870-1953. &quot;A Pacific coast pioneer.&quot; [ [MAIN] F/864/B688] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="78544">
+            <COL>
+                <DATA>Dunne, Peter Masten, 1889-. &quot;A padre views South America.&quot; [ [MAIN] F/2223/D83] [c.1]. 1. South America -- Description &amp; travel. 2. Catholic Church in South America. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="87098">
+            <COL>
+                <DATA>Martin, Gloria Rexford. &quot;A painter&apos;s paradise; artists and the California landscape.&quot; [ [MAIN] ND/1351.5/G44/1996] [c.1]. 1. Landscape painting, American -- California -- Exhibitions. 2. Landscape painting -- 19th century -- California -- Exhibitions. 3. Landscape painting -- 20th century -- California -- Exhibitions. 4. California in art -- Exhibitions. I. Gerdts, William H. II. Santa Barbara Museum of Art. III. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="58610">
+            <COL>
+                <DATA>Brown, Jonathan. &quot;A palace for a king; the buen retiro and the Court of Philip IV.&quot; [ [MAIN] DP/185/B76] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Felipe IV, King of Spain, 1605-1665 -- Art patronage. 2. Madrid. Buen Retiro. 3. Olivares, Gaspar de Guzman, condeduque de, 1587-1647. I. Elliott, John Huxtable. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="82151">
+            <COL>
+                <DATA>Constant, George C., 1864-. &quot;A pardoned lifer; life of George Sontag, former member notorious Evans-Sontag Gang, train robbers.&quot; [ [MAIN] HV/6248/C65/A3] [c.1]. [LOUIS GRANT WILSON COLLECTION.] I. Warner, Opie L. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="55897">
+            <COL>
+                <DATA>Conmy, Peter Thomas, 1901-. &quot;A parochial and institutional history of the Diocese of Oakland, 1962-1972, and two centuries of background.&quot; [ [MAIN] BX/1418/O2/C6/2000] [c.1]. 1. Catholic Church. Diocese of Oakland (California) -- History. I. Nunis, Doyce Blackman. II. Weber, Francis J. III. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="67239">
+            <COL>
+                <DATA>California State Historical Association. &quot;A partial list of organizations in California interested in California history. 2nd. edition with reports of activities, 1935-1940.&quot; [ [MAIN] F/856/C46/1942] [c.1]. 1. California -- Learned Institutions and societies. 2. Historical societies -- California 3. California -- History, Local. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="72077">
+            <COL>
+                <DATA>Van Nostrand, Jeanne Skinner, 1902-. &quot;A pictorial and narrative history of Monterey, adobe capital of California,&quot;. [ [MAIN] [EXTRA OVERSIZE] F/869/M7/V3] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="60164">
+            <COL>
+                <DATA>La Farge, Oliver, 1901-1963. &quot;A pictorial history of the American Indian.&quot; [ [MAIN] [OVERSIZE] E/77/L245] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Indians of North America -- Pictorial works. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="85372">
+            <COL>
+                <DATA>Geiger, Maynard J., 1901-. &quot;A pictorial history of the physical development of Mission Santa Barbara from brush hut to international greatness, 1786-1963.&quot; [ [MAIN] NA/5235/S26/G4] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="68016">
+            <COL>
+                <DATA>Sunset. &quot;A picture journey through California; being a series of 74 photographs of California&apos;s principal spots of scenic, romantic and historic interest.&quot; [ [MAIN] F/862/S95] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="70306">
+            <COL>
+                <DATA>White, William Francis, 1829-1891?. &quot;A picture of pioneer times in California, illustrated with anecdotes and stories taken from real life.&quot; [ [MAIN] F/865/W585] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="62310">
+            <COL>
+                <DATA>Webb, George. &quot;A Pima remembers.&quot; [ [MAIN] E/99/P6/W4] [c.1]. 1. Pima Indians. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="70114">
+            <COL>
+                <DATA>Lienhard, Heinrich, 1821-1904. &quot;A pioneer at Sutter&apos;s Fort, 1846-1850; the adventures of Heinrich Lienhard.&quot; [ [MAIN] F/865/L72] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="89738">
+            <COL>
+                <DATA>Park, Charles Caldwell, 1860-. &quot;A plaything of the Gods.&quot; [ [MAIN] PZ/3/P2196/P48] [c.1]. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="90371">
+            <COL>
+                <DATA>Rattan, Volney, 1840-1915. &quot;A popular California flora, or Manual of botany for beginners ... 2d edition, revised &amp; enlarged.&quot; [ [MAIN] QK/140/R21] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Botany California. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="20" RECORDID="67569">
+            <COL>
+                <DATA>Heaven, Louise Palmer, 1846-. &quot;A popular history of California from the earliest period of its discovery to the present time. 2nd edition.&quot; [ [MAIN] F/861/H44] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. California -- History. I. E., T., editor. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="75387">
+            <COL>
+                <DATA>Bancroft, Hubert Howe, 1832-1918. &quot;A popular history of the Mexican people.&quot; [ [MAIN] F/1226/B22] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="63215">
+            <COL>
+                <DATA>International Council on Monuments and Sites. United States Committee. &quot;A preliminary inventory of Spanish Colonial resources associated with National Park Service units and national historic landmarks, 1987.&quot; [ [MAIN] E/159/I57] [c.1]. 1. Historic sites -- United States. 2. Spain -- Colonies -- America. 3. America -- Civilization -- Spanish influences. 4. National parks and reserves -- United States. I. Comit&apos;e Conjunto Hispano-Norte Americano para la Cooperación General y Educativa (Madrid, Spain). II. National Park Service (U.S.). III. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="71277">
+            <COL>
+                <DATA>--. &quot;A program for Spanish participation in San Diego&apos;s 200th anniversary. Un programma para la participación de España en el bicentenario de San Diego.&quot; [ [MAIN] [EXTRA OVERSIZE] F/868/S15/P76] [c.1]. 1. San Diego (California) -- Centennial celebration, etc. 2. San Diego (Caliornia.) -- Anniversaries, etc. I. Title: Un programma para la participacion de Espana en el bicentenario de San Diego.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="88253">
+            <COL>
+                <DATA>Velazquez de la Cadena, Mariano, 1788-1860. &quot;A pronouncing dictionary of the Spanish and English languages.&quot; [ [MAIN] PC/4640/V5/1868] [c.1; c.2]. 1. Spanish language -- Dictionaries -- English. 2. English language -- Dictionaries -- Spanish. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="88258">
+            <COL>
+                <DATA>Velázquez de la Cadena, Mariano, 1778-1860. &quot;A pronouncing dictionary of the Spanish and English languages.&quot; [ [MAIN] PC/4640/V55] [c.1]. 1. Spanish language -- Dictionaries -- English. 2. English language -- Dictionaries -- Spanish. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="65708">
+            <COL>
+                <DATA>Garcés, Francisco Tomás Hermenegildo, 1738-1781. &quot;A record of travels in Arizona and California, 1775-1776.&quot; [ [MAIN] [EXTRA OVERSIZE] F/786/G213/1965] [c.1]. 1. Southwest, New -- Description &amp; travel. 2. Missions -- Sonora -- Mexico. 3. Missions -- Arizona. 4. Missions -- California. I. Galvin, John, ed. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="65531">
+            <COL>
+                <DATA>Coke, Henry John, 1827-1916. &quot;A ride over the Rocky Mountains to Oregon and California with a glance at some of the tropical islands, including the West Indies and the Sandwich Isles.&quot; [ [MAIN] F/598/C67] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="65616">
+            <COL>
+                <DATA>Brewerton, George Douglas, 1820-1901. &quot;A ride with Kit Carson, across the great American desert and through the Rocky Mountains.&quot; [ [MAIN] F/786/B66/1969] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Carson, Kit, 1809-1868. 2. Frontier and pioneer life -- West (United States). I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="81037">
+            <COL>
+                <DATA>Van Orman, Richard A. &quot;A room for the night; hotels of the Old West.&quot; [ [MAIN] GT/3808/V3] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Bars (Drinking establishments) -- West (United States). I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="70226">
+            <COL>
+                <DATA>--. &quot;A Sampler of California&apos;s pictorial letter sheets, 1849-1869. Los Angeles, Zamorano Club, 1980.&quot; [ [MAIN] F/865/S24/1980] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. California -- Pictorial works. I. Zamorano Club.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="91826">
+            <COL>
+                <DATA>Brinley-Higgens, John. &quot;A Santa Barbara Old Town tradition: Joe&apos;s Cafe.&quot; [ [MAIN] TX/945.5/J64/B75] [c.1]. 1. Joe&apos;s Cafe. 2. Santa Barbara (California) -- History. I. Title. II. Title: Santa Barbara old town tradition.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="74307">
+            <COL>
+                <DATA>Bandelier, Adolph Francis Alphonse, 1840-1914. &quot;A scientist on the trail; travel letters of A.F. Bandelier, 1880-1881.&quot; [ [MAIN] F/1215/B22] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="69118">
+            <COL>
+                <DATA>Dakin, Susanna Bryant. &quot;A Scotch paisano; Hugo Reid&apos;s life in California, 1832-1852, derived from his correspondence.&quot; [ [MAIN] F/864/R37] [c.1; c.2].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="92919">
+            <COL>
+                <DATA>Weber, Francis J., comp. &quot;A select bibliographical guide to California Catholic periodical literature, 1844-1973.&quot; [ [MAIN] Z/7837/W38] [c.1]. 1. Catholic Church in California -- Bibliiography. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="92465">
+            <COL>
+                <DATA>Weber, Francis J., comp. &quot;A select bibliographical guide to California history, 1863-1972.&quot; [ [MAIN] Z/1261/W42] [c.1]. 1. Bibliography -- bibliography -- California. 2. California -- History -- Bibliography. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="92923">
+            <COL>
+                <DATA>Weber, Francis J., comp. &quot;A select bibliography, to California Catholic literature, 1856-1974.&quot; [ [MAIN] Z/7837/W39] [c.1]. 1. Catholic Church in California -- Bibliography. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="92481">
+            <COL>
+                <DATA>Weber, Francis J., comp. &quot;A select bibliography: the California missions, 1765-1972.&quot; [ [MAIN] Z/1261/W43] [c.1]. 1. Missions -- California -- Bibliography. 2. Spanish missions of California -- Bibliography. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="92905">
+            <COL>
+                <DATA>Weber, Francis J. &quot;A select guide to California Catholic history.&quot; [ [MAIN] Z/7778/C3/W4] [c.1]. 1. Catholic Church in California -- Bibliography. I. Title. II. Title: Guide to California Catholic history</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="92513">
+            <COL>
+                <DATA>Weber, Francis J. &quot;A select Los Angeles bibliography, 1872-1970.&quot; [ [MAIN] Z/1262/L8/W4] [c.1]. 1. Los Angeles -- Bibliography. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="82585">
+            <COL>
+                <DATA>Langdell, C. C. &quot;A selection of cases on the law of contracts prepared for use as a text-book in Harvard Law School. 2d edition.&quot; [ [MAIN] KF/801/L3/1879] [v.1; v.2]. 1. Contracts -- United States. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="80167">
+            <COL>
+                <DATA>Hakluyt, Richard, 1552?-1616. &quot;A selection of the principal voyages, traffiques and discoveries of the English nation.&quot; [ [MAIN] G/240/H3/I7] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="69988">
+            <COL>
+                <DATA>Ellison, William Henry. &quot;A self-governing dominion; California, 1849-1860.&quot; [ [MAIN] F/865/E5] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="66032">
+            <COL>
+                <DATA>Wakely, David. &quot;A sense of mission; historic churches of the Southwest.&quot; [ [MAIN] [OVERSIZE] F/797/W34/1994] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="86525">
+            <COL>
+                <DATA>Eastman, Seth, 1808-1875. &quot;A Seth Eastman sketchbook, 1848-1849.&quot; [ [MAIN] [OVERSIZE] NC/1075/E16] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. United States -- Description &amp; travel. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="64486">
+            <COL>
+                <DATA>Henderson, Kitty A. &quot;A shared experience; the history, architecture and historic designations of the Lower Rio Grande heritage corrider; a teacher&apos;s companion activities and resource book ...&quot; [ [MAIN] [OVERSIZE] F/392/R5/H46/1994] [c.1]. 1. Historic sites -- Texas -- Lower Rio Grande Valley. 2. Architecture -- Texas -- Lower Rio Grande Valley. 3. Lower Rio Grande Valley (Texas) -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="64492">
+            <COL>
+                <DATA>Henderson, Kitty A. &quot;A shared experience; the history, architecture and historic designations of the Lower Rio Grande. Heritage corridor. 2nd edition ...&quot; [ [MAIN] [OVERSIZE] F/392/R5/H46/1994b] [c.1]. 1. Historic sites -- Texas -- Lower Rio Grande Valley. 2. Architecture -- Texas -- Lower Rio Grande Valley. 3. Lower Rio Grande Valley (Texas) -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="64175">
+            <COL>
+                <DATA>Hosmer, James Kendall, 1834-1977. &quot;A short history cf the Mississippi Valley.&quot; [ [MAIN] F/351/H82] [c.1]. 1. Mississippi Valley -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="67592">
+            <COL>
+                <DATA>Hunt, Rockwell Dennis, 1868-. &quot;A short history of California.&quot; [ [MAIN] F/861/H96] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="75411">
+            <COL>
+                <DATA>Noll, Arthur Howard, 1885-. &quot;A short history of Mexico.&quot; [ [MAIN] F/1226/N79] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="75408">
+            <COL>
+                <DATA>McHenry, John Patrick. &quot;A short history of Mexico. [Revised Dolphin Books edition].&quot; [ [MAIN] F/1226/M27/1970] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="73363">
+            <COL>
+                <DATA>Johnson, Sidona Viola, 1875-. &quot;A short history of Oregon ...&quot; [ [MAIN] F/876/J69] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Oregon -- history. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="73359">
+            <COL>
+                <DATA>Horner, John B., 1856-1933. &quot;A short history of Oregon.&quot; [ [MAIN] F/876/H81] [c.1]. 1. Oregon -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="20" RECORDID="72477">
+            <COL>
+                <DATA>McKeever, Michael. &quot;A short history of San Diego.&quot; [ [MAIN] F/869/S22/M36/1985] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. San Diego (California) -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="83009">
+            <COL>
+                <DATA>Livermore, Ann. &quot;A short history of Spanish music.&quot; [ [MAIN] ML/315/L6] [c.1]. 1. Music -- Spain -- History and criticism. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="60206">
+            <COL>
+                <DATA>Spicer, Edward Holland, 1906-. &quot;A short history of the Indians of the United States.&quot; [ [MAIN] E/77/S754] [c.1]. 1. Indians of North America -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="63540">
+            <COL>
+                <DATA>Bayard, Samuel John, d. 1879. &quot;A sketch of the life of Com. Robert F.Stockton; with an appendix, comprising his correspondence with the Navy Department respecting his conquest of California; and extracts from the defense of Col. J. C. Fremont, in relation to the same subject; together with his speeches in the Senate of the United States and his political letters.&quot; [ [MAIN] E/403/S8/B3] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="76258">
+            <COL>
+                <DATA>Browne, John Ross, 1821-1875. &quot;A sketch of the settlement and exploration of lower California.&quot; [ [MAIN] F/1246/B72] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="90398">
+            <COL>
+                <DATA>Broughton, Jacqueline P. &quot;A sketchbook of Santa Barbara&apos;s native wildflowers.&quot; [ [MAIN] QK/149/B76] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="74428">
+            <COL>
+                <DATA>Spratling, William Philip, 1900-. &quot;A small Mexican world; with ports. and decorations by the author.&quot; [ [MAIN] F/1215/S74/1964] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Mexico -- Description &amp; travel. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="64228">
+            <COL>
+                <DATA>Newton, Lewis William, 1881-. &quot;A social and political history of Texas. Revised edition.&quot; [ [MAIN] F/386/N48/1935] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="72226">
+            <COL>
+                <DATA>--. &quot;A social manual for San Francisco and Oakland, with addresses of people of society, membership of clubs ...&quot; [ [MAIN] F/869/S3/A182/1884] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. San Francisco -- Directories. 2. Oakland, California -- Directories. I. City Publishing Company, San Francisco.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="69188">
+            <COL>
+                <DATA>Sandels, G.M. Waseurtz af, 1894-. &quot;A sojourn in California by the King&apos;s orphan. The travels and sketches of G.M. Waseurtz of Sandels, a Swedish gentleman who visited California in 1842-1843.&quot; [ [MAIN] [EXTRA OVERSIZE] F/864/S25] [c.1; c.2]. 1. California -- Description &amp; travel -- To 1848. I. Van Sicklen, Helen Putnam, 1894-. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="70756">
+            <COL>
+                <DATA>--. &quot;A Southern California historical anthology; selections from the annual and quarterly publications of the Historical Society of Southern California, 1803-1983.&quot; [ [MAIN] F/867/S7/1984] [c.1]. 1. California, Southern -- History -- Addresses, essays, lectures. I. Nunis, Doyce Blackman. II. Historical Society of Southern California.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="88339">
+            <COL>
+                <DATA>Smith, Cornelius Cole, 1913-. &quot;A southwestern vocabulary; the words they used.&quot; [ [MAIN] PE/2966/S65/1984] [c.1]. 1. English language -- Provincialisms -- Southwestern States -- Glossaries, vacabularies, etc. 2. English language -- Foreign words and phrases, Spanish -- Glossaries, vocabularies, etc. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="87297">
+            <COL>
+                <DATA>Maius, fl. 926-968. &quot;A Spanish apocalypse; the Morgan Beatus manuscript.&quot; [ [MAIN] [EXTRA OVERSIZE] ND/3361/R52/B436/1991] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Beatus, Saint, Presbyte rof Liebana, d. 798. In Apocalipin -- Illustrations. 2. Asburnham -- Morgan Beatus (Manuscript) -- Illustrations. 3. Illumination of books and manuscripts, Medieval. 4. Bible. New Ttestament Revelation -- Illustrations. 5. Illumination of books and manuscripts -- New York (New York). 6. Manuscripts -- New York (New York). 7. Pierpont Morgan Library. I. Williams, John, 1928. Feb. 25-. II. Shailor, Barbara A., 1948-. III. Pierpont Morgan Library. IV. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="66268">
+            <COL>
+                <DATA>McCarty, Kieran. &quot;A Spanish frontier in the enlightened age; Franciscan beginnings in Sonora and Arizona, 1767-1770.&quot; [ [MAIN] F/799/M28] [c.1]. 1. Franciscans -- Missions -- Southwest, New. 2. Franciscans -- Mission -- Mexico -- Sonora (State) -- History. 3. Indians of North America -- Southwest, New -- Missions.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="72649">
+            <COL>
+                <DATA>Gonzalez, Rafael, 1797-. &quot;A Spanish soldier in the Royal Presideo of Santa Barbara; experiences of a California soldier.&quot; [ [MAIN] F/869/S45/G65] [c.1]. 1. Santa Barbara (California) -- History. I. Savage, Thomas, 1823-. II. Whitehead, Richard S. III. Jackman, Jarrell C. IV. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="67109">
+            <COL>
+                <DATA>Espinosa y Tello, José, 1763-1815. &quot;A Spanish voyage to Vancouver and the Northwest coast of America, being the narrative of the voyage made in the year 1792 by the schooners Sutil and Mexicana to explore the strait of Fuca.&quot; [ [MAIN] F/851.5/E771] [c.1]. 1. Juan de Fuca (Strait) 2. Northwest passage. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="77062">
+            <COL>
+                <DATA>Taylor, Paul Schuster, 1895-. &quot;A Spanish-Mexican peasant community; Arandas in Jalisco México.&quot; [ [MAIN] F/1391/A82/T38] [c.1]. 1. Arandas (Mexico) -- Social life &amp; customs. I. Title. II. Series.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="71602">
+            <COL>
+                <DATA>--. &quot;A Step back in time; unpublished Channel Islands diaries.&quot; [ [MAIN] F/868/S232/S74/1990] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Channel Islands (California) -- History. I. Daily, Marla, 1949-.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="89433">
+            <COL>
+                <DATA>Casey, Beatrice Vivian. &quot;A stranger came to the Lucias.&quot; [ [MAIN] PS/3553/A846/S8] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="58302">
+            <COL>
+                <DATA>Morton, Henry Canova Vollam, 1892-. &quot;A stranger in Spain.&quot; [ [MAIN] DP/43/M67/1955a] [c.1]. 1. Spain -- Description &amp; travel. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="70091">
+            <COL>
+                <DATA>Kelly, William. &quot;A stroll through the diggings of California.&quot; [ [MAIN] F/865/K29] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. California -- Description &amp; travel. 2. California -- Gold discoveries. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="73707">
+            <COL>
+                <DATA>Schwatka, Frederick, 1849-1892. &quot;A summer in Alaska ...&quot; [ [MAIN] F/912/Y9/S52] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Yukon River and Valley -- Description &amp; travel. 2. Alaska -- Description &amp; travel. 3. United States -- Exploring expeditions. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="20" RECORDID="55637">
+            <COL>
+                <DATA>Eberhardt, Newman C. &quot;A survey of American church history.&quot; [ [MAIN] BX/1401/E3] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Catholic Church -- United States -- History. 2. America -- Church history. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="20" RECORDID="57729">
+            <COL>
+                <DATA>Kirkham, E. Kay. &quot;A survey of American church records ... for the period before the Civil War ... east of the Mississippi River.&quot; [ [MAIN] CD/3065/K5] [v.1; v.2]. 1. Archives -- United States. 2. Churches -- United States -- Bibliography. I. American church records. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="91190">
+            <COL>
+                <DATA>Hammel, Eugene A. &quot;A survey of fishing communities.&quot; [ [MAIN] SH/247/H33] [c.1]. 1. Fisheries -- Peru. 2. Fishing -- Equipment and supplies. 3. Peru -- Social life and customs. I. Haase, Ynez D. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="60006">
+            <COL>
+                <DATA>Wellmann, Klaus F. &quot;A survey of North American Indian rock art ...&quot; [ [MAIN] [EXTRA OVERSIZE] E/61/W44] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Indians of North America -- Antiquities. 2. Indian art -- North America. 3. North America -- Antiquities. 4. Petroglyphs -- North America 5. Rock paintings -- North America. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="70649">
+            <COL>
+                <DATA>Halsey, Mina Deane, 1873-. &quot;A tenderfoot in Southern California.&quot; [ [MAIN] F/867/H18] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. California, Southern -- Social life and customs. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="92321">
+            <COL>
+                <DATA>Steck, Francis Borgia, 1884-. &quot;A tentative guide to historical materials in the Spanish borderlands.&quot; [ [MAIN] Z/1251/S8/S8/1971] [c.1]. 1. America -- Discovery &amp; exploration -- Spain -- Bibliography. 2. Spain -- Colonies -- North America -- Bibliography. 3. Southwest, New -- History -- Bibliography. 4. Southwest, Old -- History -- Bibliography. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="92328">
+            <COL>
+                <DATA>Steck, Francis Borgia, 1884-. &quot;A tentative guide to historical materials on the Spanish borderlands.&quot; [ [MAIN] Z/1251/S8/S8] [c.1]. 1. America -- Discovery &amp; exploration -- Spain -- Bibliography. 2. Spain -- Colonies -- North America -- Bibliography. 3. Southwest, New -- History -- Bibliography. 4. Southwest, Old -- History -- Biblliography. I. American Catholic Historical Society of Philadelphia. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="55331">
+            <COL>
+                <DATA>Gutiérrez, Gustavo, 1928-. &quot;A theology of liberation; history, politics and salvation.&quot; [ [MAIN] BT/738/G8613] [c.1]. 1. Liberation theology. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="60626">
+            <COL>
+                <DATA>Milliken, Randall. &quot;A time of little choice; the disintegration of tribal culture in the San Francisco Bay area, 1769-1810.&quot; [ [MAIN] E/78/C15/M55/1995] [c.1]. 1. Indians of North America -- Caliornia -- San Francisco Bay area -- History -- 18th century. 2. Indians of North America -- California -- San Francisco Bay area -- Hisory -- 19th century. 3. Indians of North America -- Missions -- California -- San Francisco Bay area. 4. Catholic Church -- Missions -- California -- San Francisco Bay area -- History -- Sources. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="58824">
+            <COL>
+                <DATA>Porcell, Baltasar. &quot;A totes les illes.&quot; [ [MAIN] DP/302/B22/P37] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Balearic Islands (Spain) -- Description &amp; travel. 2. Balearic Islands (Spain) -- History. 3. Balearic Islands (Spain) -- Civilization. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="20" RECORDID="56257">
+            <COL>
+                <DATA>Weber, Francis J. &quot;A tradition of outreach; example of Catholic action in the Archdiocese of Los Angeles.&quot; [ [MAIN] BX/2348/Z7/L678] [c.1]. 1. Catholic Church -- Public relations -- Los Angeles (California) 2. Catholic action -- Los Angeles (California) I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="88569">
+            <COL>
+                <DATA>Blackstone, William, Sir, 1723-1780. &quot;A translation of all the Greek, Latin, Italian Italian and French quotations which occur in Blackstone&apos;s commentaries on the laws of England and also in the Notes of the editions by Christian, Archbold and Williams&quot;. [ [MAIN] PN/6080/B53] [c.1]. 1. Quotations. I. Jones, John Winter, 1805-1881. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="89323">
+            <COL>
+                <DATA>Hazard, Caroline, 1856-1945. &quot;A transplanted Puritain.&quot; [ [MAIN] PS/3515/A973/T73] [c.1]. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="80983">
+            <COL>
+                <DATA>Toor, Frances, 1890-. &quot;A treasury of Mexican folkways ...&quot; [ [MAIN] GR/115/T55] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="71219">
+            <COL>
+                <DATA>--. &quot;A treasury of the Sierra Nevada.&quot; [ [MAIN] F/868/S5/T73/1983] [c.1]. 1. Sierra Nevada Mountains Region (California and Nevada) -- History -- Addresses, essays, lectures. 2. Sierra Nevada Mountains Region (California and Nevada) -- Description and travel -- Addresses, essays, lectures. I. Reid, Robert Leonard.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="65122">
+            <COL>
+                <DATA>Morgan, Martha M. &quot;A trip across the plains in the year 1849; with notes of a voyage to California by way of Panama.&quot; [ [MAIN] F/593/M73/1983] [c.1]. 1. West (United States) -- Description &amp; travel. -- 1848-1860. 2. Overland journeys to the Pacific. II. Notes of a voyage to California by way of Panama.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="73633">
+            <COL>
+                <DATA>Wardman, George, 1838-. &quot;A trip to Alaska; a narrative of what was seen and heard during a summer cruise in Alaskan waters.&quot; [ [MAIN] F/908/W26] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Alaska -- Description &amp; travel. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="79192">
+            <COL>
+                <DATA>Graham, Robert Bontine Cunninghame, 1853-1936. &quot;A vanished Arcadia, being some account of the Jesuits in Paraguay, 1607-1767.&quot; [ [MAIN] F/2684/G74] [c.1]. 1. Paraguay -- History -- To 1811. 2. Jesuits in Paraguay. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="71367">
+            <COL>
+                <DATA>--. &quot;A Vast pastoral domain: San Luis Obispo County in the 1870&apos;s.&quot; [ [MAIN] F/868/S18/V38] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. San Luis Obispo County (California) -- Hisory -- 19th century. 2. San Luis Obispo County (California) -- Description &amp; travel.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="62941">
+            <COL>
+                <DATA>Bueno, Eduardo. &quot;A viagem do descobrimento.&quot; [ [MAIN] E/125/C11/B84/1998] [c.1]. 1. Cabral, Pedro Alvares, d. 1520. 2. Explorers -- Brazil -- Biography. 3. Explorers -- Portugal -- Biography. 4. Brazil -- Discovery &amp; exploration -- Portuguese. 5. Brazil -- History -- 1500-1548. 6. Portugal -- History -- Period of discoveries -- 1385-1580. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="67927">
+            <COL>
+                <DATA>Oak, Henry Lebbeus, 1844-1905. &quot;A visit to the missions of Southern California in February and March, 1874.&quot; [ [MAIN] F/862/O18/1981] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="80359">
+            <COL>
+                <DATA>Vancouver, George, 1757-1798. &quot;A voyage of discovery to the North Pacific Ocean and round the world, 1791-1795.&quot; [ [MAIN] G/420/V22/1984] [v.1; v.2; v.3; v.4]. [NORMAN NEUERBURG COLLECTION] 1. Voyages around the world. 2. Northwest Coast of North America. I. Lamb, W. Kaye (William Kaye), 1904-. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="80568">
+            <COL>
+                <DATA>McClintock, Francis Leopold, 1819-1907. &quot;A voyage of the fox in the Arctic seas; a narrative of the discovery of the fate of Sir John Franklin and his companions.&quot; [ [MAIN] G/665/1857/M24] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Fox (Ship). 2. Franklin, John, 1786-1847. 3. Arctic Regions. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="20" RECORDID="65895">
+            <COL>
+                <DATA>Berton, Francis. &quot;A voyage on the Colorado, 1878.&quot; [ [MAIN] F/788/B5413] [c.1]. [LOUIS GRANT WILSON COLLECTION.]</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="80343">
+            <COL>
+                <DATA>Portlock, Nathaniel, 1748?-1817. &quot;A voyage round the world, but more particularly to the North-West Coast of America performed in 1785,1786,1787, and 1788 ...&quot; [ [MAIN] [OVERSIZE] G/420/P85] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Voyages around the world. 2. Northwest Coast of North America. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="80387">
+            <COL>
+                <DATA>du Haut Cilly, Auguste Bernard, 1790-1849. &quot;A voyage to California, the Sandwich Islands &amp; Around the world in the years 1826- 1829.&quot; [ [MAIN] G/440/D85/D85/1999] [c.1]. 1. Voyages around the world. 2. California -- Description &amp; travel. 3. Hawaii -- Description &amp; travel. 4. Heros (Ship). I. Fruge, August, 1909-. II. Harlow, Neal, 1908-. III. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="80378">
+            <COL>
+                <DATA>du Haut Cilly, Auguste Bernard, 1790-1849. &quot;A voyage to California, the Sandwich Islands; &amp; Around the world in the years, 1826-1829.&quot; [ [MAIN] G/440/D85/D85/1997] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Heros (Ship). 2. Voyages around the world. 3. California -- Description &amp; travel. 4. Hawaii -- Description &amp; travel. I. Fruge, August, 1909-. II. Harlow, Neal. III. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="79433">
+            <COL>
+                <DATA>Sandeman, Christopher. &quot;A wanderer in Inca land.&quot; [ [MAIN] [OVERSIZE] F/3422/S24/1949] [c.1]. 1. Peru -- Description &amp; travel -- Views. 2. Peru -- Antiquities. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="59186">
+            <COL>
+                <DATA>Marden, Philip Sanford., 1874-. &quot;A wayfarer in Portugal.&quot; [ [MAIN] DP/525/M2] [c.1]. 1. Portugal -- Description &amp; travel. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="69904">
+            <COL>
+                <DATA>Goodman, David Michael. &quot;A western panorama 1849-1875; the travels, writings, and influence of J. Ross Browne on the Pacific Coast and in Texas, Nevada, Arizona, and Baja California, as the first mining commissioner and minister to China.&quot; [ [MAIN] F/865/B898/G6] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="71713">
+            <COL>
+                <DATA>Brooks, Charles Stephen, 1878-1934. &quot;A western wind.&quot; [ [MAIN] F/869/C27/B76] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="81267">
+            <COL>
+                <DATA>Hereford, Rockwell, 1902-. &quot;A whole man, Henry Mauris Robinson, and a half century--1890-1940.&quot; [ [MAIN] HC/102.5/R54/H47/1985] [c.1]. 1. Robinson, Henry Mauris, 1868-1937. 2. Businessmen -- United States -- Biography. 3. Bankers -- United States -- Biography. 4. Lawyers -- United States -- Biography. 5. United States -- Economic conditions, 1865-1919. 6. United States -- Economic conditions -- 1918-1945. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="58942">
+            <COL>
+                <DATA>Sand, George, 1804-1876. &quot;A winter in Majorca (1838-1839).&quot; [ [MAIN] DP/302/B27/S3613/1988] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Majorca (Spain) -- Description &amp; travel. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="73661">
+            <COL>
+                <DATA>Sullivan, May Kellogg. &quot;A woman who went to Alaska.&quot; [ [MAIN] F/909/S95] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Alaska -- Description &amp; travel. 2. Frontier -- and pioneer life -- Alaska. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="65149">
+            <COL>
+                <DATA>Powers, Mary Rockwood, d. 1858. &quot;A woman&apos;s overland journal to California.&quot; [ [MAIN] F/593/P867/1985] [c.1]. 1. West (United States) -- Description &amp; travel -- 1848-1860. 2. Overland journeys to the Pacific. 3. California -- Description &amp; travel -- 1848-1849. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="73592">
+            <COL>
+                <DATA>Collis, Septima Maria Levy, 1842-1917. &quot;A woman&apos;s trip to Alaska; being an account of a voyage through the inland seas of the Sitkan Archipelago in 1890.&quot; [ [MAIN] F/908/C71] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Alaska -- Description &amp; travel. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="80628">
+            <COL>
+                <DATA>Brown, Lester L. &quot;A world historical atlas. &quot;. [ [MAIN] [OVERSIZE] G/1021/B76] [v.6; v.7]. 1. Atlases. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="69814">
+            <COL>
+                <DATA>--. &quot;A World transformed; firsthand accounts of California before the Gold Rush.&quot; [ [MAIN] F/864/W945/1999] [c.1]. 1. California -- History -- To 1846 -- Sources. 2. California -- History -- 1846-1850 -- Sources. 3. California -- Biography. I. Paddison, Joshua, 1974-.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="81276">
+            <COL>
+                <DATA>Wright, Doris Marion. &quot;A yankee in Mexican California, Abel Stearns, 1798-1948.&quot; [ [MAIN] HC/102.5/S7/W74] [c.1]. 1. Stearns, Abel, 1799-1871. 2. Businessmen -- California, Southern -- Biography. 3. California -- History -- To 1846. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="79297">
+            <COL>
+                <DATA>Barrett, Robert LeMoyne, 1871-. &quot;A Yankee in Patagonia, Edward Chace.&quot; [ [MAIN] F/2936/B25] [c.1]. 1. Patagonia -- Description &amp; travel. 2. Chace, Edward. I. Barrett, Katharine Ruth Ellis, 1879-. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="72717">
+            <COL>
+                <DATA>Miller , Robert Ryal. &quot;A Yankee smuggler on the Spanish California coast: George Washington Eayrs and the ship Mercury.&quot; [ [MAIN] F/869/S45/M55/2001] [c.1]. 1. Santa Barbara (California) -- History -- 19th century. 2. Eayrs, George Washington, 1775-1855. 3. Mercury (Ship) 4. Smuggling -- California -- Santa Barbara -- History -- 19th century. 5. Smugglers -- California -- Santa Barbara -- Biography. 6. California -- History -- To 1846. I. Santa Barbara Trust for Historic Preservation. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="69890">
+            <COL>
+                <DATA>Buck, Franklin Agustus, 1826-1909. &quot;A Yankee trader in the Gold Rush; the letters of Franklin A. Buck.&quot; [ [MAIN] F/865/B91] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="79308">
+            <COL>
+                <DATA>Willis, Bailey, 1857-1949. &quot;A Yanqui in Patagonia; a bit of autobiography.&quot; [ [MAIN] F/2936/W45] [c.1]. 1. Patagonia -- Description &amp; travel. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="71645">
+            <COL>
+                <DATA>Le Conte, Joseph N. (Joseph Nisbet), 1870-1950. &quot;A yosemite camping trip, 1889.&quot; [ [MAIN] F/868/Y6/L43/1990] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Yosemite Valley (California) -- Description &amp; travel. 2. Yosemite National Park (California) -- Description &amp; travel. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="90419">
+            <COL>
+                <DATA>Hall, Harvey Monroe, 1874-1932. &quot;A Yosemite flora ... by Harvey Monroe Hall and Carlotta Case Hall.&quot; [ [MAIN] QK/149/H4] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Botany -- California. I. Hall, Carlotta Case. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="20" RECORDID="67565">
+            <COL>
+                <DATA>Heaven, Louise Palmer, 1846-. &quot;A youth&apos;s history of California from the earliest period of its discovery to the present time.&quot; [ [MAIN] F/861/H43] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. California -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="83770">
+            <COL>
+                <DATA>Avila, Abelardo, 1907-1967. &quot;Abelardo Avila.&quot; [ [MAIN] [OVERSIZE] N/6559/A9/A4/1993] [c.1]. 1. Avila, Abilardo, 1907-1967 -- Exhibitions. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="61488">
+            <COL>
+                <DATA>Mason, Otis Tufton, 1818-1908. &quot;Aboriginal American basketry; studies in a textile art without machinery.&quot; [ [MAIN] E/98/B3/M32/1972] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Indians baskets -- North America I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="60344">
+            <COL>
+                <DATA>--. &quot;Aboriginal California; three studies in cultural history.&quot; [ [MAIN] E/78/C15/A2] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="60346">
+            <COL>
+                <DATA>--. &quot;Aboriginal California; three studies in culture history.&quot; [ [MAIN] E/78/C15/A2] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="74663">
+            <COL>
+                <DATA>Sauer, Carl Ortwin, 1889-. &quot;Aboriginal population of Northwestern Mexico.&quot; [ [MAIN] F/1219/S323] [c.1]. 1. Indians of Mexico. 2. Mexico -- Population. I. Title. II. Series.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="71923">
+            <COL>
+                <DATA>Cameron, Robert, 1911-. &quot;Above Los Angeles; a collection of nostalgic and contemporary aerial photographs of greater Los Angeles.&quot; [ [MAIN] [OVERSIZE] F/869/L843/C35/1976] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Los Angeles (California) -- Aerial photographs. 2. Los Angeles Region (California) -- Aerial photographs. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="20" RECORDID="55648">
+            <COL>
+                <DATA>--. &quot;Academy of American Franciscan History. United States documents in the Propaganda Fide archives; a calendar by Finbar Kenneally.&quot; [ [MAIN] BX/1405/A63] [v.1-11; index]. 1. Catholic Church in the United States -- History -- Sources I. Catholic Church. Congregatio de Propaganda Fide. II. Kenneally, Finbar. III. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="20" RECORDID="55029">
+            <COL>
+                <DATA>--. &quot;Academy of California Church History.&quot; [ [MAIN] BR/555/C2/A25] [v.1(1950/51) v.2 (1951/52) v.3 (1952/53) v.4 (1953/54) v.5]. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="66903">
+            <COL>
+                <DATA>--. &quot;Academy of Pacific Coast History, Berkeley, Calif. Publications, v.1- 1909-.&quot; [ [MAIN] F/851/A18] [v.1, no. 3, no.5; v.1; v.2; v.3, no. 1; v.3, no. 3; v.4].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="60633">
+            <COL>
+                <DATA>Mutnick, Dorothy Gittinger. &quot;Acalanes and Stanislaus; metamorphoses.&quot; [ [MAIN] E/78/C15/M87] [c.1]. 1. Indians of North America -- California. 2. California -- History. 3. Stanislaus County, California -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="77057">
+            <COL>
+                <DATA>Rojas, Pedro. &quot;Acambaro colonial; estudio histórico, artistico e econográfico.&quot; [ [MAIN] F/1391/A17/R6] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Architecture, Colonial -- Mexico -- Acambaro (Guanajuato). 2. Acambaro (Guanajuato, Mexico) -- Buildings, structures, etc. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="69575">
+            <COL>
+                <DATA>United States 72nd Congress, 1st Session, 1931-1932. &quot;Acceptance and unveiling of the statues of Junípero Serra and Thomas Starr King. Presented by the state of California. Proceedings in the Congress and in Statuary Hall, United States Capitol.&quot; [ [MAIN] F/864/S587] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="69578">
+            <COL>
+                <DATA>United States 72nd Congress, 1st Session, 1931-1932. &quot;Acceptance and unveiling of the statues of Junípero Serra and Thomas Starr King. Presented by the State of California. Proceedings in the Congress and in Statuary Hall, United States Capitol.&quot; [ [MAIN] F/864/S587/1932] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="66205">
+            <COL>
+                <DATA>--. &quot;Acceptance of the statue of Eusebio Francisco Kino presented by the State of Arizona. Proceedings in the rotunda United States capitol February 14, 1965.&quot; [ [MAIN] F/799/K56/A2] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="68907">
+            <COL>
+                <DATA>Miller, Henry, fl. 1856. &quot;Account of a tour of the California missions &amp; towns, 1856; the journal &amp; drawings of Henry Miller.&quot; [ [MAIN] F/864/M65/1995] [c.1]. 1. Missions -- California. 2. California -- Description and travel. I. Title. II. Title: California missions.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="68902">
+            <COL>
+                <DATA>Miller, Henry, fl. 1856. &quot;Account of a tour of the California missions, 1856.&quot; [ [MAIN] [OVERSIZE] F/864/M65] [c.1; c.2]. 1. Missions -- California. 2. California -- Description &amp; travel. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="80585">
+            <COL>
+                <DATA>Coxe, William. &quot;Account of the Russian discoveries between Asia and America, to which are added the 1966 conquest of Siberia and the history of the transactions and commerce between Russia and China. 3d ed., rev. &amp; corrected.&quot; [ [MAIN] G/680/C823/1966] [c.1]. 1. Discoveries (in geography) -- Russian. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="85531">
+            <COL>
+                <DATA>Calders, P. &quot;Acolman; un convento Agustino del siglo XVI.&quot; [ [MAIN] [OVERSIZE] NA/5257/A2/C3] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Acolman (Mexico: Augustinian Monastery). I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="61774">
+            <COL>
+                <DATA>Minge, Ward Alan. &quot;Acoma; pueblo in the sky.&quot; [ [MAIN] E/99/A16/M56] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Acoma Indians -- History. 2. Acoma Indians -- Land tenure. 3. Acoma (New Mexico) -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="88920">
+            <COL>
+                <DATA>Stevenson, Robert Louis, 1850-1894. &quot;Across the plains, with other memories and essays.&quot; [ [MAIN] PR/5488/A4/1892b] [c.1]. 1. West (United States) -- Description &amp; travel. 2. Monterey, California -- Description. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="88915">
+            <COL>
+                <DATA>Stevenson, Robert Louis, 1850-1894. &quot;Across the plains; with other memories and essays.&quot; [ [MAIN] PR/5488/A4/1892] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. West (United States) -- Description &amp; travel. 2. Monterey, California -- Description. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="64463">
+            <COL>
+                <DATA>Rubel, Arthur J. &quot;Across the tracks; Mexican Americans in a Texas City.&quot; [ [MAIN] F/392/H56/R8] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="56417">
+            <COL>
+                <DATA>Congreso International Sobre Los Franciscanos en el Nuevo Mundo (1st: 1985: Monastario de Santa Maria de la Rabida). &quot;Actas del I Congreso Internacional sobre Los Franciscanos en el Nuevo Mundo, La Rábida, 16-21, septiembre 1985.&quot; [ [MAIN] BX/3607/C66/1985] [c.1]. 1. Franciscans -- America -- Congresses. 2. America -- Church history. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="56422">
+            <COL>
+                <DATA>Congreso International Sobre Los Franciscanos en el Nuevo Mundo (2d: 1987: Monastario de Santa Maria de la Rabida). &quot;Actas del II Congreso Internacional sobre Los Franciscanos en el Nuevo Mundo (siglo XVI), La Rábida, 21-26 de septiembre de 1987.&quot; [ [MAIN] BX/3607/C66/1987] [c.1]. 1. Franciscans -- America -- Congresses. 2. America -- Church history. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="79393">
+            <COL>
+                <DATA>Centro de Estudios Historico Militares del Peru. &quot;Actas y trabajos del II Congreso Nacional de Historia del Peru (Época Pre-hispanica) 4-9 de agosto de 1958.&quot; [ [MAIN] F/3401/C63] [v.1; v.2]. 1. Peru -- History -- Congresses. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="85535">
+            <COL>
+                <DATA>MacGregor, Luis. &quot;Actopan.&quot; [ [MAIN] [OVERSIZE] NA/5257/A3/M3] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. San Nicolas de Tolentino (Augustinian Monastery). 2. Actopan (Mexico). I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="82624">
+            <COL>
+                <DATA>California. Laws, Statutes, etc. &quot;Acts amendatory of the codes of California, passed at the twenty-first session of the legislature, 1875-6.&quot; [ [MAIN] KFC/25.2/1875] [c.1]. 1. Law -- California. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="55594">
+            <COL>
+                <DATA>Catholic Church, Pope, 1878-1903 (Leo XIII). &quot;Actum praeclare (20 February 1903) Breve apostolicum &quot;Actum praeclare&quot; SS D .N. Leonis PP. XIII.&quot; [ [MAIN] BX/870/1878e] [c.1]. 1. Briefs, Papal. 2. Canons, decretals, etc. (Ecclesiastical). I. Leo XIII, Pope, 1810-1903. II. Title. III. Title: Actum praeclare.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="67253">
+            <COL>
+                <DATA>Perceval, Don Luis. &quot;Adam was a clamper; an abridged history of Clamperdom from the Garden of Eden to Hangtown and the founding of Platrix Chapter, no. 2.&quot; [ [MAIN] F/856/E2/P47] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. World history -- Humor. I. Clifford, Henry H. II. Sloman, Ernest E. III. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="86251">
+            <COL>
+                <DATA>Alcover Gonzalez, Rafael. &quot;Adan Diehl i formentor.&quot; [ [MAIN] NA/7850/M35/P66] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Diehl, Adan, d. 1953. 2. Hotel Formentor (Pollensa, Majorca) 3. Pollensa (Spain) -- Description. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="67803">
+            <COL>
+                <DATA>Dwinelle, John Whipple, 1816-1881. &quot;Address on the acquisition of California by the United States.&quot; [ [MAIN] F/861.5/D95] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="89756">
+            <COL>
+                <DATA>Bartlett, Lanier. &quot;Adios.&quot; [ [MAIN] PZ/3/R2845/A35] [c.1]. I. Bartlett, Virginia Stwers. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="62643">
+            <COL>
+                <DATA>Morison, Samuel Eliot, 1887-. &quot;Admiral of the ocean sea; a life of Christopher Columbus.[1st ed.].&quot; [ [MAIN] E/111/M86/1942] [v.1; v.2].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="70484">
+            <COL>
+                <DATA>Smith, Sarah Hathaway (Bixby). &quot;Adobe days ... revised [2d] edition.&quot; [ [MAIN] F/866/S63/1926] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="71455">
+            <COL>
+                <DATA>Spaulding, Edward Selden,189l-. &quot;Adobe days along the channel.&quot; [ [MAIN] [EXTRA OVERSIZE] F/868/S23/S7] [c.1]. 1. Santa Barbara County (California) 2. Santa Barbara County (California) -- Historic houses, etc. 3. California -- History -- Sources. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="70487">
+            <COL>
+                <DATA>Smith, Sarah Hathaway (Bixby). &quot;Adobe days; being the truthful narrative of the events in the life of a California girl on a sheep ranch ... together with an account of how three young men from Maine in 1853 drove sheep &amp; cattle across the plains ... and the strange prophecy of Admiral Thatcher about San Pedro harbor. [3rd edition revised]&quot;. [ [MAIN] F/866/S63/1931] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="72024">
+            <COL>
+                <DATA>Baer, Morley. &quot;Adobes in the sun; portraits of a tranquil era.&quot; [ [MAIN] [OVERSIZE] F/869/M7/B27] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Historic buildings -- California -- Monterey. 2. Dwellings -- California -- Monterey. 3. Monterey (California) -- Buildings, structures, etc. I. Fink, Augusta. II. Elkinton, Amelie. III. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="91475">
+            <COL>
+                <DATA>Stewart, Robert Ernest. &quot;Adolph Sutro; a biography.&quot; [ [MAIN] TN/140/S8/S7] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="63885">
+            <COL>
+                <DATA>Porter, Charles Wesley, 1904-. &quot;Adventurers to a new world; the Roanoke Colony, 1585-87.&quot; [ [MAIN] F/229/P67] [c.1]. 1. Roanoke Colony (North Carolina). I. United States. National Park Service. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="89839">
+            <COL>
+                <DATA>Young, Samuel Hall, 1847-1927. &quot;Adventures in Alaska.&quot; [ [MAIN] PZ/3/Y85/A35] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Alaska -- Description &amp; travel. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="92234">
+            <COL>
+                <DATA>Jones, Herschel Vespasian, 1861-1928. &quot;Adventures in Americana, 1492-1897 ... being a selection of books from the library of Herschel V. Jones, Minneapolis, Minnesota.&quot; [ [MAIN] [OVERSIZE] Z/1207/J77/1964] [v.1]. [NORMAN NEUERBURG COLLECTION] 1. Frontier and pioneer life -- United States -- Bibliography. 2. Rare books -- United States -- Bibliography. 3. America -- Discovery &amp; exploration -- Bibliography. 4. United States -- Description &amp; travel -- Bibliography. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="20" RECORDID="68321">
+            <COL>
+                <DATA>Chichinov, Zakhar, 1802-. &quot;Adventures in California of Zakahar Tchitchinoff, 1818-1828.&quot; [ [MAIN] F/864/C468] [c.1; c.2]. [LOUIS GRANT WILSON COLLECTION.] 1. Russians in California. 2. California -- Description &amp; travel. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="89143">
+            <COL>
+                <DATA>Diggs, Thomas Atwood, 1741?-1821. &quot;Adventures of Alonso ... anonymously printed in London in 1775, and now attributed to Thomas Atwood Digges (1741-1821) of Warburton. Manor, Maryland; the first American novel by Robert H. Elias.&quot; [ [MAIN] PS/737/D35/A63/1775a] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="73376">
+            <COL>
+                <DATA>Cox, Ross, 1793-1853. &quot;Adventures on the Columbia River; including the narrative of a residence of six years on the western side of the Rocky Mountains among various tribes of Indians hitherto unknown; together with a journey across the American continent.&quot; [ [MAIN] F/880/C87] [c.1]. 1. Oregon -- Description &amp; travel. 2. Northwest, Canadian -- Description &amp; travel. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="61397">
+            <COL>
+                <DATA>Axtell, James. &quot;After Columbus; essays in the ethnohistory of Colonial North America.&quot; [ [MAIN] E/93/A954/1988] [c.1]. 1. Indians of North America -- To 1789. 2. Indians of North America -- History -- Colonial period, ca. 1600-1775. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="66361">
+            <COL>
+                <DATA>Thomas, Alfred Barnaby, editor and translator. &quot;After Coronado; Spanish exploration northeast of New Mexico, 1696-1727; documents from the archives of Spain, Mexico and New Mexico.&quot; [ [MAIN] F/799/T45] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="66120">
+            <COL>
+                <DATA>Donohue, John Augustus, 1916-. &quot;After Kino; Jesuit missions in Northwestern New Spain, 1711-1767.&quot; [ [MAIN] F/799/D66] [c.1]. 1. Jesuits -- Arizona -- Primería Alta. 2. Indians of North America -- Missions. 3. Indians of Mexico -- Missions. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="80116">
+            <COL>
+                <DATA>Hale, J. R. (John Rigby) , 1923-. &quot;Age of exploration. [Revised].&quot; [ [MAIN] G/80/H2/1967] [c.1]. 1. Explorers. 2. Discoveries (in geography). I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="81452">
+            <COL>
+                <DATA>Salamini, Heather Fowler, 1940-. &quot;Agrarian radicalism in Veracruz, 1920-38.&quot; [ [MAIN] HD/329/V4/S24] [c.1]. 1. Peasantry -- Mexico -- Vera Cruz region -- History. 2. Vera Cruz region, Mexico -- Rural conditions. 3. Radicalism -- Mexico -- Vera Cruz Region. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="81458">
+            <COL>
+                <DATA>Smith, Thomas Lynn, 1903-. &quot;Agrarian reform in Latin America.&quot; [ [MAIN] HD/465/S5] [c.1]. 1. Land tenure -- Latin America. 2. Agriculture -- Latin America. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="81177">
+            <COL>
+                <DATA>U.S. Census Office. 8th Census, 1860. &quot;Agriculture of the United States in 1860; compiled from the original returns of the eighth census ...&quot; [ [MAIN] [OVERSIZE] HA/201/1860/B3] [c.1]. 1. Agriculture -- United States -- Statistics. I. Kennedy, Joseph,. Camp Griffith, 1813-1887. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="59370">
+            <COL>
+                <DATA>Wildman, Edwin, 1867-1902. &quot;Aguinaldo, a narrative of Filipino ambitions.&quot; [ [MAIN] DS/676.8/A3/W7] [c.1]. 1. Aguinaldo y Famy, Emilio, 1869-. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="60824">
+            <COL>
+                <DATA>Acevedo, Alexander. &quot;Akicita; early plains and woodlands: Indian art from the collection of Alexander Acevedo.&quot; [ [MAIN] [OVERSIZE] E/78/G73/A45/1983] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Indian art -- Great Plains -- Exhibitions. 2. Woodland art -- Exhibitions. 3. Acevedo, Alexander -- Art collections -- Exhibitions. I. Southwest Museum (Los Angeles, Calif.).</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="79352">
+            <COL>
+                <DATA>Heyerdahl, Thor. &quot;Aku-Aku; the secret of Easter Island.&quot; [ [MAIN] F/3169/H413/1958] [c.1]. 1. Easter Island -- Description &amp; travel. 2. Easter Island -- Antiquities. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="79357">
+            <COL>
+                <DATA>Heyerdahl, Thor. &quot;Aku-Aku; the secret of Easter Island.&quot; [ [MAIN] F/3169/H413/1960] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="83972">
+            <COL>
+                <DATA>--. &quot;Al-Andalus; the art of Islamic Spain.&quot; [ [MAIN] [OVERSIZE] N/7103/A4/1992] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Art, Islamic -- Spain -- Exhibitions. 2. Art, Medieval -- Spain -- Exhibitions. 3. Art -- Spain -- Exhibitions. I. Dodds, Jerrilynn Denise.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="68768">
+            <COL>
+                <DATA>Kocher, Paul H. &quot;Alabado; a story of Old California.&quot; [ [MAIN] F/864/K6] [c.1]. 1. California -- History -- To 1846. 2. Indians of North America -- California -- Missions. 3. Missions -- California. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="73500">
+            <COL>
+                <DATA>Dall, William Healey, 1845-1927. &quot;Alaska and its resources.&quot; [ [MAIN] F/904/D14] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Alaska. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="73735">
+            <COL>
+                <DATA>Heilprin, Angelo, 1853-1907. &quot;Alaska and the Klondike; a journey to the new Eldorado with hints to the traveller.&quot; [ [MAIN] F/931/H46] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Alaska -- Description &amp; travel. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="73490">
+            <COL>
+                <DATA>Boyce, William Dickson, 1848-1929. &quot;Alaska and the Panama Canal illustrated.&quot; [ [MAIN] F/904/B77] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Alaska. 2. Panama. 3. Canal Zone. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="23" RECORDID="73649">
+            <COL>
+                <DATA>Young, Samuel Hall, 1847-1927. &quot;Alaska days with John Muir.&quot; [ [MAIN] F/908/Y76] [c.1]. 1. Muir, John, 1838-1914. 2. Alaska -- Description &amp; travel. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="73528">
+            <COL>
+                <DATA>U.S. Copper River Exploring Expedition. &quot;Alaska, 1899: Copper River Exploring Expedition. Capt. W. R. Abercrombie.&quot; [ [MAIN] F/904/U52] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Copper River Region, Alaska. 2. Trans-Alaskan Military Road. 3. United States -- Exploring expeditions. I. Abercrombie, William Ralph. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="73496">
+            <COL>
+                <DATA>Bruce, Miner Wait. &quot;Alaska, its history and resources, gold fields, routes and scenery.&quot; [ [MAIN] F/904/B88] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Alaska -- Description &amp; travel. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="73508">
+            <COL>
+                <DATA>James, Bushrod Washington, 1836-1903. &quot;Alaska; its neglected past, its brilliant future.&quot; [ [MAIN] F/904/J29] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Alaska. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="73535">
+            <COL>
+                <DATA>Scidmore, E. Ruhamah, 1856-1928. &quot;Alaska; its southern coast and the Sitkan archipelago.&quot; [ [MAIN] F/906/S41] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Alaska -- Description &amp; travel. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="89386">
+            <COL>
+                <DATA>Noonan, Dominic A. &quot;Alaska; the land of now.&quot; [ [MAIN] PS/3527/O35/A82] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Alaska -- Description &amp; travel -- Poetry. 2. Poetry of places -- Alaska. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="90025">
+            <COL>
+                <DATA>Harriman Alaska Expedition, 1939. &quot;Alaska.&quot; [ [MAIN] Q/115/H2] [v.1; v.2].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="55200">
+            <COL>
+                <DATA>Águilera, Francisco M. &quot;Album conmemorativo del 450 aniversario de las apariciones de Nuestra Señora de Guadalupe.&quot; [ [MAIN] [OVERSIZE] BT/660/G8/A52] [c.1]. 1. Guadalupe, Nuestra Señora de. I. Corripio Ahumada, Ernesto.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="83825">
+            <COL>
+                <DATA>Guerra Duval, F. &quot;Album das curiosidades artisticas de Bahia; organizado por ordern do Governo do Estado de Bahia ...&quot; [ [MAIN] N/6657/B3/G8] [c.1]. 1. Art -- Bahia, Brazil (City) I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="77192">
+            <COL>
+                <DATA>--. &quot;Album de Patzcuaro, Morelia.&quot; [ [MAIN] F/1391/P37/A42] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="55250">
+            <COL>
+                <DATA>Pompa y Pompa, Antonio. &quot;Album del IV centenario Guadalupano.&quot; [ [MAIN] [OVERSIZE] BT/660/G8/P6] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="55207">
+            <COL>
+                <DATA>Cuevas, Mariano, 1879-. &quot;Album historico Guadalupano del IV centenario.&quot; [ [MAIN] [OVERSIZE] BT/660/G8/C8] [c.1]. 1. Guadalupe, Nuestra Señora de. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="66572">
+            <COL>
+                <DATA>Simmons, Marc. &quot;Albuquerque; a narrative history.&quot; [ [MAIN] F/804/A3/S55/1982] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Albuquerque (New Mexico) -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="66610">
+            <COL>
+                <DATA>Old Santa Fe today. 3rd edition. Preface by John Gaw Meem. Note to the 3rd edition by M.R. (Jim) Adler. &quot;Albuquerque.&quot; [ [MAIN] F/804/S28/O43/1982] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Santa Fe (New Mexico) -- Buildings -- Guidebooks 2. Historic buildings -- New Mexico -- Santa Fe -- Guidebooks. 3. Santa Fe (New Mexico) -- History. 4. Architecture -- New Mexico -- Santa Fe -- Guidebooks. I. Historic Santa Fe Foundation.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="76461">
+            <COL>
+                <DATA>Melo de Remes, Maria Luisa. &quot;Alerta, baja California!&quot;. [ [MAIN] F/1246/M55] [c.1]. 1. Baja California Norte (Mexico) -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="80314">
+            <COL>
+                <DATA>Bona, Emma. &quot;Alessandro Malaspina; sue navigazioni ed esplorazioni.&quot; [ [MAIN] [OVERSIZE] G/420/M23/B71] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Malaspina, Alessandro, 1754-1809. 2. Voyages around the world. 3. Latin America -- Description &amp; travel. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="87684">
+            <COL>
+                <DATA>Marin de Paalen, Isabel. &quot;Alfarería: Tonala.&quot; [ [MAIN] NK/4032/J3/M3] [c.1]. 1. Pottery -- Mexico -- Tonala (Jalisco) 2. Potters -- Mexico -- Tonala (Jalisco). I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="61780">
+            <COL>
+                <DATA>--. &quot;Algonquians of the East Coast.&quot; [ [MAIN] [OVERSIZE] E/99/A35/A46/1995] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Algonquian Indians -- History. 2. Algonquian Indians -- Social life &amp; customs. I. Time-Life Books. II. Series.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="55972">
+            <COL>
+                <DATA>Bazant, Jan. &quot;Alienation of church wealth in Mexico; social and economic aspects of the liberal revolution, 1856-1875.&quot; [ [MAIN] BX/1428.2/B38] [c.1]. 2. Church and state in Mexico. 3. Land, Nationalization of. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="72600">
+            <COL>
+                <DATA>--. &quot;All about Santa Barbara, Cal.; the sanitarium of the Pacific Coast.&quot; [ [MAIN] F/869/S45/A4] [c.1; c.2].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="59002">
+            <COL>
+                <DATA>Fotografía Industrial, S.A. &quot;All Costa Brava. 2nd ed.&quot; [ [MAIN] DP/302/G24/F67/1970z] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Costa Brava (Spain). 2. Gerona (Spain: Province). I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="59106">
+            <COL>
+                <DATA>--. &quot;All Lerida; the province and the Pyrenees. 1st ed.&quot; [ [MAIN] DP/402/L33/A44] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Lerida (Spain).</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="73444">
+            <COL>
+                <DATA>Victor, Frances Fuller, 1826-1902. &quot;All over Oregon and Washington. Observations on the country ...&quot; [ [MAIN] F/881/V53] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Oregon -- Description &amp; travel. 2. Washington (State) -- Description &amp; travel. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="77450">
+            <COL>
+                <DATA>Clark, Sydney, 1890-1975. &quot;All the best in South America; West Coast.&quot; [ [MAIN] F/1409/C53] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. South America -- Guidebooks. 2. Pacific Coast -- Guidebooks. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="89633">
+            <COL>
+                <DATA>Haven, Alice Bradley, 1828-1863. &quot;&quot;All&apos;s not gold that glitters; or, The Young Californian, by Cousin Alice.&quot; [ [MAIN] PZ/3/H298/A65] [c.1]. [LOUIS GRANT WILSON COLLECTION.] I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="66738">
+            <COL>
+                <DATA>Nelson, William Hamilton, 1878-. &quot;Alluring Arizona ... and finally Arizona today, presenting a pageant of progress, and painting, a picture of Arizona from the mystic past to now.&quot; [ [MAIN] F/811/N43] [c.1]. 1. Arizona -- History. 2. Arizona -- Description &amp; travel. 3. Arizona -- Antiquities. 4. Indians of North America -- Arizona. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="88704">
+            <COL>
+                <DATA>Rodriguez Ramón, Andrés. &quot;Alma y perfil de Santa Barbara. 1. edición.&quot; [ [MAIN] PQ/7079/R65/A65] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="54924">
+            <COL>
+                <DATA>--. &quot;Almanaque de &quot;El Tiempo&quot;, diario Católico de México&quot;. [ [MAIN] AY/431/A485/1887] [c.1]. 1. Almanacs, Mexican I. Agueros, Victoriano, 1854-1911.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="61333">
+            <COL>
+                <DATA>Kroeber, Theodora. &quot;Almost ancestors; the first Californians.&quot; [ [MAIN] E/89/K7] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Indians of North America -- Portraits. 2. Indians of North America -- California. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="22" RECORDID="73701">
+            <COL>
+                <DATA>Schwatka, Frederick, 1849-1892. &quot;Along Alaska&apos;s great river ...&quot; [ [MAIN] F/912/Y9/S4] [c.1]. [LOUIS GRANT WILSON COLLECTION.] 1. Yukon River and Valley -- Description &amp; travel. 2. Alaska -- Description &amp; travel. 3. United States -- Exploring expeditions. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="69075">
+            <COL>
+                <DATA>Phelps, William Dane, 1802-1875. &quot;Alta California, 1840-1842; the journal and observations of William Dane Phelps, master of the ship &quot;Alert&quot;.&quot; [ [MAIN] F/864/P445/1983] [c.1]. 1. California -- Description &amp; travel -- To 1848. I. Busch, Briton Cooper. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="68027">
+            <COL>
+                <DATA>Whitehead, Richard S. &quot;Alta California&apos;s four fortresses.&quot; [ [MAIN] [OVERSIZE] F/862/W48/1986] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="66035">
+            <COL>
+                <DATA>--. &quot;Alternative concepts for commemorating Spanish colonization.&quot; [ [MAIN] F/798/A47]. [NORMAN NEUERBURG COLLECTION] 1. Historic sites -- New Mexico.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="63007">
+            <COL>
+                <DATA>Hallenbeck, Cleve. &quot;Alvar Nuñez Cabeza de Vaca; the journey and route of the first European to cross the continent of North America, 1534-1536.&quot; [ [MAIN] E/125/N9/H3] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="66760">
+            <COL>
+                <DATA>Arizona Development Board. &quot;Amazing Arizona! Historical markers in Arizona.&quot; [ [MAIN] F/812/A72] [v.1; v.2]. 1. Historical markers -- Arizona. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="78947">
+            <COL>
+                <DATA>Hemming, John, 1935-. &quot;Amazon frontier. &quot;. [ [MAIN] F/2519.1/A6/H43/1987] [c.1]. 1. Indians of South America -- Brazil. 2. Indians of South America -- Amazon River Valley. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="80071">
+            <COL>
+                <DATA>Cotlaw, Lewis, b. 1898. &quot;Amazon head-hunters.&quot; [ [MAIN] F/3722.1/J5/C64/1954] [c.1]. 1. Head-hunters. 2. Jivaro Indians. 3. Indians of South America -- Social life &amp; customs. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="76877">
+            <COL>
+                <DATA>Clendinnen, Inga. &quot;Ambivalent conquests; Maya and Spaniard in Yucatan, 1517-1570.&quot; [ [MAIN] F/1376/C55/1988] [c.1]. 1. Yucatan (Mexico) -- History. 2. Mexico -- History -- Conquest, 1519-1540. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="59783">
+            <COL>
+                <DATA>Lucena Salmoral, Manuel. &quot;America 1492; portrait of a continent 500 years ago.&quot; [ [MAIN] [OVERSIZE] E/58/L88/1990] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Indians of North America -- History. 2. Indians of Mexico -- History. 3. Indians of North America -- Social life &amp; customs. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="81944">
+            <COL>
+                <DATA>Hofstadter, Richard, 1916-1970. &quot;America at 1750; a social portrait.&quot; [ [MAIN] HN/57/H545/1973] [c.1]. 1. United States -- Social conditions -- To 1855. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="62677">
+            <COL>
+                <DATA>Bushman, Claudia L. &quot;America discovers Columbus; how an Italian explorer became an American hero.&quot; [ [MAIN] E/112/B95/1992] [c.1]. 1. Columbus, Christopher -- Influence. 2. Columbus, Christopher -- Anniversaries, etc. -- History. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="92225">
+            <COL>
+                <DATA>Alcina Franch, José. &quot;America en la época de los austrias.&quot; [ [MAIN] Z/1201/A49] [c.1]. 1. America -- History -- To 1810 -- Bibliography. I. Palop Martinez, Josefina. II. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="77850">
+            <COL>
+                <DATA>Morales Padron, Francisco. &quot;America Hispana; hasta la creación de las nuevas naciones.&quot; [ [MAIN] F/1413/M82] [c.1]. 1. Latin America -- History -- 19th century. I. Title. II. Title: Hasta la creacion de las nuevas naciones.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="77765">
+            <COL>
+                <DATA>Morales Padron, Francisco. &quot;America Hispana; las nuevas naciones.&quot; [ [MAIN] F/1411/M8827] [c.1]. 1. Latin America -- History -- To 1600. I. Title. II. Title: Las nuevos naciones.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="77749">
+            <COL>
+                <DATA>Konetzke, Richard, 1897-. &quot;America Latina; II. época colonial. &quot;. [ [MAIN] F/1411/K618/1972] [c.1]. 1. Latin America -- History -- To 1830. 2. Spain -- Colonies -- Native races. 3. Portugal -- Colonies -- Native races. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="63787">
+            <COL>
+                <DATA>Cepeda, Félix Alejandro, 1854. &quot;America Mariana; o; Sea historia compendiada de las imágenes de la Santísma Virgen mas veneradas en el nuevo mundo.&quot; [ [MAIN] ET/670/S75/C44] [v.2].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="62576">
+            <COL>
+                <DATA>Anderson, Rasmus Bjorn, 1846-1936. &quot;America not discovered by Columbus; an historical sketch of the discovery of America by the Norsemen in the tenth century. With an appendix on the historical, linguistic, literary and scientific value of the Scandinavian languages. Also a bibliography of the pre-Columbian discoveries of America.&quot; [ [MAIN] E/105/A56] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="92230">
+            <COL>
+                <DATA>--. &quot;America y las islas del Pacifico.&quot; [ [MAIN] [OVERSIZE] Z/1201/A54] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. America -- Bibliography. 2. Islands of the Pacific -- Bibliography.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="58838">
+            <COL>
+                <DATA>--. &quot;América y Mallorca; del predescubrimiento hasta el siglo XX.&quot; [ [MAIN] DP/302/B27/A54] [v.1]. [NORMAN NEUERBURG COLLECTION] 1. Majorca (Spain) -- History.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="84481">
+            <COL>
+                <DATA>Gasparini, Graziano. &quot;America, barroco y arquitectura.&quot; [ [MAIN] NA/702/G37] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Architecture, Baroque -- Latin America. 2. Architecture -- Latin America. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="77455">
+            <COL>
+                <DATA>Garcia Sanchez, Federico, 1886-. &quot;America, españolear.&quot; [ [MAIN] F/1409/G37] [c.1]. 1. Authors, Spanish -- Correspondence. 2. Latin America -- Description &amp; travel, 1900-1950. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="77422">
+            <COL>
+                <DATA>--. &quot;America; bride of the sun; 500 years Latin America and the Low Countries: 1.2-31.5. 92, Royal Museum of Fine Arts.&quot; [ [MAIN] [OVERSIZE] F/1408.3/A51613] [c.1]. [NORMAN NEUERBURG COLLECTION] 1. Latin America -- Civilization -- Exhibitions. 2. Spain -- Colonies -- America -- History -- Exhibitions. 3. Arts, Latin American -- Exhibitions. I. Koninklijk Museum voor Schone Kunst (Belgium).</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="21" RECORDID="81159">
+            <COL>
+                <DATA>Scaife, Walter Bell, 1858-. &quot;America; its geographical history, 1492-1892 .. with a supplement entitled: &quot;Was the Rio de Espiritu Santo of the Spanish geographers the Mississippi?&quot;&quot;. [ [MAIN] H/31/J62] [c.1]. 1. America -- Discovery &amp; exploration. 2. America -- Description &amp; travel. 3. Mississippi River -- Discovery &amp; exploration. 4. Rio del Espirituo Santo. I. Title.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="92667">
+            <COL>
+                <DATA>--. &quot;America.: history and life, v.1-.&quot; [ [MAIN] [OVERSIZE] Z/2136/A48] [V.15, pt.A:1; V.19, pt.A:1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="20" RECORDID="55659">
+            <COL>
+                <DATA>Weber, Francis J. &quot;America&apos;s Catholic heritage; some bicentennial reflections (1776-1976).&quot; [ [MAIN] BX/1406.2/A65] [c.1].</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="60074">
+            <COL>
+                <DATA>--. &quot;America&apos;s fascinating Indian heritage.&quot; [ [MAIN] E/77/A56] [c.1]. 1. Indians of North America. I. Maxwell, Jamest A., 1912-. II. Title: Reader&apos;s Digest.</DATA>
+            </COL>
+        </ROW>
+        <ROW MODID="19" RECORDID="63373">
+            <COL>
+                <DATA>Ridge, Martin. &quot;America&apos;s frontier story; a documentary history of west-ward expansion.&quot; [ [MAIN] E/178/R54] [c.1]
